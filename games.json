@@ -1,0 +1,2941 @@
+[
+  {
+    "code": 105045,
+    "cover": {
+      "id": 67051,
+      "game": 105045,
+      "height": 256,
+      "image_id": "sfcyfvmminlpnwidt9cz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/sfcyfvmminlpnwidt9cz.jpg",
+      "width": 221,
+      "checksum": "6fa8fc65-a5b1-f741-de89-51f46593db45"
+    },
+    "first_release_date": 820368000,
+    "genres": [],
+    "name": "Magic Knight Rayearth",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "magic-knight-rayearth--3",
+    "summary": "",
+    "url": "https://www.igdb.com/games/magic-knight-rayearth--3",
+    "screenshots": [],
+    "price": 1099
+  },
+  {
+    "code": 49143,
+    "cover": {
+      "id": 33644,
+      "game": 49143,
+      "height": 384,
+      "image_id": "il3fb2r12mznisbwgnni",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/il3fb2r12mznisbwgnni.jpg",
+      "width": 329,
+      "checksum": "5f637216-83e3-bbef-10b3-aded27b40d11"
+    },
+    "first_release_date": 663292800,
+    "genres": ["Role-playing (RPG)"],
+    "name": "Kininkou Maroku Oni",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "kininkou-maroku-oni",
+    "summary": "Kininkou Maroku Oni is a Role-Playing game, developed by WinkySoft and published by Banpresto, which was released in Japan in 1990.",
+    "url": "https://www.igdb.com/games/kininkou-maroku-oni",
+    "screenshots": [],
+    "price": 4999
+  },
+  {
+    "code": 64417,
+    "cover": {
+      "id": 37941,
+      "game": 64417,
+      "height": 296,
+      "image_id": "enilpttuib6iqlli2byv",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/enilpttuib6iqlli2byv.jpg",
+      "width": 218,
+      "checksum": "44448602-13fd-d809-99c8-9dfa198d844c"
+    },
+    "first_release_date": 849830400,
+    "genres": [],
+    "name": "Momotaro Collection 2",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "momotaro-collection-2",
+    "summary": "Two more classic Momotaro games on one cartridge.",
+    "url": "https://www.igdb.com/games/momotaro-collection-2",
+    "screenshots": [],
+    "price": 599
+  },
+  {
+    "code": 48984,
+    "first_release_date": 677462400,
+    "genres": ["Strategy"],
+    "name": "GameBoy Wars",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "gameboy-wars",
+    "summary": "Game Boy Wars (ゲームボーイウォーズ Gēmu Bōi Wōzu?) is a turn-based war simulator produced by Nintendo and Intelligent Systems that was released for the Game Boy in Japan only in 1991. It is a portable follow-up to the 1988 Family Computer war simulator Famicom Wars, making it the second game in Nintendo's Wars series. A series of sequels to the original Game Boy Wars were produced by Hudson Soft.",
+    "url": "https://www.igdb.com/games/gameboy-wars",
+    "screenshots": [],
+    "price": 6399
+  },
+  {
+    "code": 64029,
+    "cover": {
+      "id": 37495,
+      "game": 64029,
+      "height": 384,
+      "image_id": "rersuwfqevjvorvtbypo",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/rersuwfqevjvorvtbypo.jpg",
+      "width": 302,
+      "checksum": "d929f6a8-c3c5-db08-e4c1-4578189a384a"
+    },
+    "first_release_date": 869788800,
+    "genres": [],
+    "name": "Namco Gallery Vol. 3",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "namco-gallery-vol-3",
+    "summary": "The final release in the Namco Gallery series.",
+    "url": "https://www.igdb.com/games/namco-gallery-vol-3",
+    "screenshots": [],
+    "price": 2799
+  },
+  {
+    "code": 49034,
+    "cover": {
+      "id": 47199,
+      "game": 49034,
+      "height": 266,
+      "image_id": "wdw2awi0xtki27seh6tz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/wdw2awi0xtki27seh6tz.jpg",
+      "width": 215,
+      "checksum": "ebaaba45-071b-b2bd-5e4e-59b47cc09631"
+    },
+    "first_release_date": 719280000,
+    "genres": ["Role-playing (RPG)"],
+    "name": "Ninja Taro",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "ninja-taro",
+    "summary": "High Adventure in the Far East \nIt's the era of feudal war in Japan. One Shogun struggles to unite the provinces, but he needs help. \nHis villainous arch-rival is rumored to be dead, but a merciless legion of anarcy continues to plague the countryside. If he is dead, then who could be leading th evil forces which prevent Japan from attaining peace and order? \n \nThis chaos must be stopped! \nFrom the ranks of the Phantom sect to the Shogun's aid comes Ninja Taro. With the cunning of a thief, the skill of a master, and a legendary sword, he must venture forth to tame the minions of evil, and unravel the riddle that will unite the empire!",
+    "url": "https://www.igdb.com/games/ninja-taro",
+    "screenshots": [],
+    "price": 4599
+  },
+  {
+    "code": 48994,
+    "cover": {
+      "id": 54418,
+      "game": 48994,
+      "height": 641,
+      "image_id": "admubpeflajl9v58io4a",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/admubpeflajl9v58io4a.jpg",
+      "width": 640,
+      "checksum": "8b8b3899-cfa5-63a1-6c91-be21d3164147"
+    },
+    "first_release_date": 736214400,
+    "genres": ["Role-playing (RPG)"],
+    "name": "Great Greed",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "great-greed",
+    "summary": "Great Greed is a Role-Playing game, developed and published by Namco, which was released in 1993.",
+    "url": "https://www.igdb.com/games/great-greed",
+    "screenshots": [],
+    "price": 6399
+  },
+  {
+    "code": 49101,
+    "cover": {
+      "id": 111018,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 49101,
+      "height": 800,
+      "image_id": "co2dnu",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2dnu.jpg",
+      "width": 600,
+      "checksum": "fb7eaf5e-b675-e5eb-a81c-df4b9f472480"
+    },
+    "first_release_date": 854755200,
+    "genres": ["Sport"],
+    "name": "Matthias Sammer Soccer",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "matthias-sammer-soccer",
+    "summary": "Matthias Sammer Soccer is a soccer game made for Germany. The game features a field spread North to South where your player moves North and the opponent moves the ball South. The game was released in Germany in 1997.",
+    "url": "https://www.igdb.com/games/matthias-sammer-soccer",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/so9ktmpaeraybbvoujzn.jpg"
+    ],
+    "price": 4599
+  },
+  {
+    "code": 49046,
+    "cover": {
+      "id": 92680,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 49046,
+      "height": 800,
+      "image_id": "co1zig",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1zig.jpg",
+      "width": 800,
+      "checksum": "19d5a0d1-271d-35ea-fb3a-a6a14585dc1d"
+    },
+    "first_release_date": 696902400,
+    "genres": ["Sport"],
+    "name": "Magnetic Soccer",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "magnetic-soccer",
+    "summary": "Each team has eight players (one goalkeeper, two attackers/defenders, and three midfielders). When the player moves a row, all of them are moved at once unlike on an actual table soccer set. Rows cannot be moved in an upward or a downward position; only from left to right. Stopping the ball and performing powerful shots is only one aspect of the game. Players can also incapacitate one of the opposing players on a well-timed shot. A tied game results in a penalty shootout. \n \nThree different surfaces are available. Players can practice without a computer opponent and a spectator mode allows newcomers to see two computer-controller opponents face off.",
+    "url": "https://www.igdb.com/games/magnetic-soccer",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc7z8q.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc7z8r.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc7z8s.jpg"
+    ],
+    "price": 2299
+  },
+  {
+    "code": 64097,
+    "cover": {
+      "id": 45368,
+      "game": 64097,
+      "height": 353,
+      "image_id": "ivb1tz3pijsrrdh6frv8",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/ivb1tz3pijsrrdh6frv8.jpg",
+      "width": 304,
+      "checksum": "2790ac23-b317-f58a-87c9-f887c00d3966"
+    },
+    "first_release_date": 779673600,
+    "genres": ["Simulator", "Sport"],
+    "name": "Super Street Basketball 2",
+    "platform": {
+      "name": "Game Boy",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7m.png",
+      "url": "https://www.igdb.com/platforms/gb",
+      "slug": "game-boy"
+    },
+    "slug": "super-street-basketball-2",
+    "summary": "A Basketball sim for the Gameboy.",
+    "url": "https://www.igdb.com/games/super-street-basketball-2",
+    "screenshots": [],
+    "price": 5799
+  },
+  {
+    "code": 9067,
+    "cover": {
+      "id": 111392,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 9067,
+      "height": 800,
+      "image_id": "co2dy8",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2dy8.jpg",
+      "width": 600,
+      "checksum": "3696578b-0a85-daa1-2399-b7ca47092664"
+    },
+    "first_release_date": 960854400,
+    "genres": ["Real Time Strategy (RTS)", "Strategy"],
+    "name": "StarCraft 64",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "starcraft-64",
+    "summary": "The game itself is split into three episodes, one for the player to command each race. In the first segment of the game, the player and Jim Raynor are attempting to control the colony of Mar Sara in the wake of the Zerg attacks on other Terran worlds. \nThe second campaign reveals that Kerrigan was not killed by the Zerg, but rather is captured and infested in an effort to incorporate her psionic traits into the Zerg gene pool. \nThe final episode of the game sees Aldaris and the Protoss government branding Tassadar a traitor and a heretic for conspiring with the dark templar. The player initially serves Aldaris in defending Aiur from the Zerg invasion, but while on a mission to arrest Tassadar, the player joins him instead.",
+    "url": "https://www.igdb.com/games/starcraft-64",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8b9n.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8b9o.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8b9p.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8b9q.jpg"
+    ],
+    "price": 3999
+  },
+  {
+    "code": 135227,
+    "cover": {
+      "id": 106628,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 135227,
+      "height": 984,
+      "image_id": "co2a9w",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2a9w.jpg",
+      "width": 738,
+      "checksum": "fcfd1dff-d57b-2d44-db56-6ea21e32ffc6"
+    },
+    "first_release_date": 1534032000,
+    "genres": ["Platform"],
+    "name": "Waluigi's Taco Stand",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "waluigis-taco-stand",
+    "summary": "Waluigi's Taco Stand is a rom hack of Super Mario 64 made by Kaze Emanuar and a standalone Waluigi's unofficial and unlicensed game, being released in cartridge format (only one cartridge was made). \n \nIn this game, Waluigi has to work in a Taco stand to pay his debts. \n \nThis game was based on a mock fictional video game meme.",
+    "url": "https://www.igdb.com/games/waluigis-taco-stand",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ceu.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cev.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cew.jpg"
+    ],
+    "price": 3299
+  },
+  {
+    "code": 132840,
+    "cover": {
+      "id": 101987,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 132840,
+      "height": 397,
+      "image_id": "co26oz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co26oz.jpg",
+      "width": 298,
+      "checksum": "ee00e0ad-487b-c2ea-3933-0c053b2ad988"
+    },
+    "first_release_date": 1360454400,
+    "genres": ["Platform"],
+    "name": "Super Mario 64: Star Revenge Redone",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "super-mario-64-star-revenge-redone",
+    "summary": "Super Mario 64: Star Revenge Redone is a remake of Star Revenge, a rom hack of Super Mario 64.",
+    "url": "https://www.igdb.com/games/super-mario-64-star-revenge-redone",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc88rw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8b1v.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8b1w.jpg"
+    ],
+    "price": 2999
+  },
+  {
+    "code": 3334,
+    "cover": {
+      "id": 3430,
+      "game": 3334,
+      "height": 180,
+      "image_id": "p6xef4pvytuqg3balgpy",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/p6xef4pvytuqg3balgpy.jpg",
+      "width": 255,
+      "checksum": "64d11694-1ec4-0cfe-4161-22803c06e178"
+    },
+    "first_release_date": 897436800,
+    "genres": ["Simulator", "Strategy"],
+    "name": "Virtual Chess 64",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "virtual-chess-64",
+    "summary": "Transform your N64 into a powerful chess adversary. The most awesome chess engine adapts to any skill level. Learning is endless fun yet even superb players face the maximum challenge. Brilliant graphics brings this classic game alive. Become the next chess legend!",
+    "url": "https://www.igdb.com/games/virtual-chess-64",
+    "screenshots": [],
+    "price": 5699
+  },
+  {
+    "code": 47750,
+    "first_release_date": 917568000,
+    "genres": ["Fighting", "Sport"],
+    "name": "Toukon Road 2: The Next Generation",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "toukon-road-2-the-next-generation",
+    "summary": "Are you ready to face your greatest challenge? New Japan Pro Wrestling brings the burning spirit to the wrestling ring, and the young lions are hungry to crush the competition. Legends and young blood fire up the ring!",
+    "url": "https://www.igdb.com/games/toukon-road-2-the-next-generation",
+    "screenshots": [],
+    "price": 5199
+  },
+  {
+    "code": 3536,
+    "cover": {
+      "id": 3649,
+      "game": 3536,
+      "height": 187,
+      "image_id": "jzufnplbgoqtxzaxzmro",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/jzufnplbgoqtxzaxzmro.jpg",
+      "width": 256,
+      "checksum": "20ed2ac5-68e2-63b6-da9b-c60e530c059f"
+    },
+    "first_release_date": 878256000,
+    "genres": ["Simulator", "Sport"],
+    "name": "Madden Football 64",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "madden-football-64",
+    "summary": "Madden Football 64 is a football video game. It was the first game of the Madden NFL series to be released for the Nintendo 64. The game has commentary by Pat Summerall and John Madden. \nThis edition does not use real NFL team names or logos. Instead the teams use banners that consist of two bars with the team colors, and the team name on top of them in white, accompanied by players in their uniforms. The Pro Bowl is referred to as the \"Madden Bowl\", and the Super Bowl as the \"EAS Championship\".",
+    "url": "https://www.igdb.com/games/madden-football-64",
+    "screenshots": [],
+    "price": 3599
+  },
+  {
+    "code": 135169,
+    "cover": {
+      "id": 106490,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 135169,
+      "height": 1332,
+      "image_id": "co2a62",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2a62.jpg",
+      "width": 1000,
+      "checksum": "c6bc4332-7f55-ddab-0de1-334b315bb85e"
+    },
+    "first_release_date": 1590796800,
+    "genres": ["Platform"],
+    "name": "SM64 Shining Stars Repainted",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "sm64-shining-stars-repainted",
+    "summary": "SM64 Shining Stars Repainted is a remake of SM64 Shining Stars made by pieordie1 and released May 30, 2020. It is a ROM hack (mod) of Super Mario 64. \nMario returns to the location of SM64 Shining Stars seven months after the events of Shining Stars 3: Sanctuary of the Star Comet.",
+    "url": "https://www.igdb.com/games/sm64-shining-stars-repainted",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cae.jpg"
+    ],
+    "price": 3799
+  },
+  {
+    "code": 87817,
+    "cover": {
+      "id": 96620,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 87817,
+      "height": 800,
+      "image_id": "co22jw",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co22jw.jpg",
+      "width": 600,
+      "checksum": "187087a3-8426-d2a6-4a67-e28e78164a39"
+    },
+    "genres": ["Platform"],
+    "name": "Super Mario 64 Online",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "super-mario-64-online",
+    "summary": "A Super Mario 64 hack that adds online multiplayer functionality to the game, among many other things.",
+    "url": "https://www.igdb.com/games/super-mario-64-online",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8diu.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8div.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8diw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8dix.jpg"
+    ],
+    "price": 2399
+  },
+  {
+    "code": 44055,
+    "cover": {
+      "id": 104474,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 44055,
+      "height": 666,
+      "image_id": "co28m2",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co28m2.jpg",
+      "width": 500,
+      "checksum": "c0a7724c-6d41-b859-de27-36670c065b71"
+    },
+    "first_release_date": 913939200,
+    "genres": ["Sport"],
+    "name": "King Hill 64: Extreme Snowboarding",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "king-hill-64-extreme-snowboarding",
+    "summary": "",
+    "url": "https://www.igdb.com/games/king-hill-64-extreme-snowboarding",
+    "screenshots": [],
+    "price": 3599
+  },
+  {
+    "code": 3609,
+    "cover": {
+      "id": 3726,
+      "game": 3609,
+      "height": 356,
+      "image_id": "cqye2k8hoghdi695hv3g",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/cqye2k8hoghdi695hv3g.jpg",
+      "width": 252,
+      "checksum": "9fb01cfd-5280-4dea-69d0-3ebeb2638ebd"
+    },
+    "first_release_date": 941155200,
+    "genres": ["Role-playing (RPG)", "Strategy"],
+    "name": "Super Robot Wars 64",
+    "platform": {
+      "name": "Nintendo 64",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl78.png",
+      "url": "https://www.igdb.com/platforms/n64",
+      "slug": "nintendo-64"
+    },
+    "slug": "super-robot-wars-64",
+    "summary": "The one and only Super Robot Wars game for the Nintendo 64. This game's claims to fame are its 3D backdrops and deep scenario-branching system.",
+    "url": "https://www.igdb.com/games/super-robot-wars-64",
+    "screenshots": [],
+    "price": 3899
+  },
+  {
+    "code": 20703,
+    "cover": {
+      "id": 31629,
+      "game": 20703,
+      "height": 960,
+      "image_id": "zmguch9k68knqbs1didn",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/zmguch9k68knqbs1didn.jpg",
+      "width": 868,
+      "checksum": "6452ae93-b0b2-8743-e2f4-b7cf0ffe22c0"
+    },
+    "first_release_date": 1221696000,
+    "genres": ["Adventure"],
+    "name": "Tokyo Beat Down",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "tokyo-beat-down",
+    "summary": "Who has it within them to rise up against the ever growing threat of violence, crime, and terrorism on the streets of Tokyo? Enter the Beast Cops, tireless servants of justice. These men and women struggle night and day for the heart of the city. They'll match any villain punch for punch, kick for kick, bullet for bullet. They're Beast Cops because they will do whatever it takes, pay any price, inflict as much damage as necessary, in order to restore peace and security to the streets of Tokyo.",
+    "url": "https://www.igdb.com/games/tokyo-beat-down",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/zhisdtxuttwcfw0uov14.jpg"
+    ],
+    "price": 899
+  },
+  {
+    "code": 17460,
+    "cover": {
+      "id": 14130,
+      "game": 17460,
+      "height": 230,
+      "image_id": "b4xqo2assz6s0uhs1va0",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/b4xqo2assz6s0uhs1va0.jpg",
+      "width": 256,
+      "checksum": "a089ecad-4f75-0a89-91d9-3ae3fdf40ed7"
+    },
+    "first_release_date": 1167264000,
+    "genres": ["Role-playing (RPG)", "Adventure"],
+    "name": "Dragon Quest Monsters: Joker",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "dragon-quest-monsters-joker",
+    "summary": "Players assume the role of a monster hunter as they capture, train and breed a powerful army from more than 200 classic Dragon Quest creatures in order to become the world's greatest monster trainer. Joker is a breakout title that combines the depth of a classic Dragon Quest RPG with the addictiveness of a monster catching adventure.",
+    "url": "https://www.igdb.com/games/dragon-quest-monsters-joker",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/a62c7ds3udhilengymcr.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mw7dqwwmwigp4rci9jee.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qziteqa7tf2yxgzqgo9g.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/gdpqa1zhavsh83njvrv9.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mdqrngxcz7xd3zt2rsmf.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/nydwlchukianpyrhs29k.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/oxlfhkvwig0hd1h5etku.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/zbvczacwavyr1wnhwquy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/s5f9b1t1maodrkxxcjv4.jpg"
+    ],
+    "price": 4599
+  },
+  {
+    "code": 20693,
+    "cover": {
+      "id": 26699,
+      "game": 20693,
+      "height": 1349,
+      "image_id": "cqb1vegbabn2rigas0qz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/cqb1vegbabn2rigas0qz.jpg",
+      "width": 1526,
+      "checksum": "807ea7ad-e734-0430-af19-f7199109cb9a"
+    },
+    "first_release_date": 1174608000,
+    "genres": ["Pinball"],
+    "name": "Flipper Critters",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "flipper-critters",
+    "summary": "Flipper Critters is set in an imaginary world filled with a variety of remarkable places, from town squares and mountain valleys to towering castles and even the surface of the moon. In this magical world you'll find all of the traditional pinball features, including ramps, sinkholes, bumpers, jackpots, gates and goals - just in a different form than you've ever seen them.",
+    "url": "https://www.igdb.com/games/flipper-critters",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/coxdw1wkfcx4qv2ff4iy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/uctyz3hjlwkci8xpcgun.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/hp9qntmbtaaywisttkco.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/pbxasnbgy6f0oponbc4m.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/hyomku3yt31wyv63o3if.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/hicct6bdaf6kfglovoo6.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/owjmunipvfhlfxipl26e.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/p5faqid9h5226gaf1gcx.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/l5lozvjj0dtb8ppqavck.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/xjpxe0cj0fb9ss2heqzw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/jla6ecj5fxrx8mqcpxuf.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/kwfvwk38wcso7diry3y1.jpg"
+    ],
+    "price": 5199
+  },
+  {
+    "code": 47724,
+    "cover": {
+      "id": 27175,
+      "game": 47724,
+      "height": 1370,
+      "image_id": "sodltczl65dscxayhdtd",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/sodltczl65dscxayhdtd.jpg",
+      "width": 1535,
+      "checksum": "2c502d85-4d21-3f32-72ac-f9a41e015e2a"
+    },
+    "first_release_date": 1223424000,
+    "genres": ["Simulator"],
+    "name": "Viva Piñata: Pocket Paradise",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "viva-pinata-pocket-paradise--1",
+    "summary": "Bringing a vibrant and engaging gaming experience to the Windows platform, Viva Pinata appeals to kids, adults, casual gamers and enthusiasts alike. This uniquely customizable and social game rewards and challenges all players regardless of their skill level and presents a customizable, social and spontaneous experience in which gamers play an absolutely crucial role. The Viva Pinata world is an evolving paradise teeming with fantastic living pinata creatures and vibrant plant life, all determined by the player's choices and actions.",
+    "url": "https://www.igdb.com/games/viva-pinata-pocket-paradise--1",
+    "screenshots": [],
+    "price": 2799
+  },
+  {
+    "code": 20502,
+    "cover": {
+      "id": 110688,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 20502,
+      "height": 800,
+      "image_id": "co2deo",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2deo.jpg",
+      "width": 600,
+      "checksum": "3de5510e-bac8-bc6f-cd3f-9feca0318872"
+    },
+    "first_release_date": 1267488000,
+    "genres": ["Platform", "Adventure"],
+    "name": "Sonic Classic Collection",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "sonic-classic-collection",
+    "summary": "Sonic Classic Collection is a video game compilation for the Nintendo DS developed by The Creative Assembly Australia, under supervision by Sega Australia and Sega of Europe. It is a collection of: \n \nSonic the Hedgehog. \nSonic the Hedgehog 2. \nSonic the Hedgehog 3. \nSonic & Knuckles (With Sonic 3 and Knuckles, and Knuckles in Sonic 2). \n \nThis compilation was officially announced on December 2, 2009 by Sega of America and was released March 2, 2010, although news of this compilation first broke when it was classified by the Australian Government's OFLC. It features two extra lock-on modes from the originals, which allows the player to play as Knuckles in Sonic 2 and to play the complete version of Sonic 3 (titled \"Knuckles in Sonic 3\" as opposed to the original \"Sonic 3 & Knuckles\" title). The games receive the addition of a save option; while players can \"save anywhere\" as billed, they must restart the act in which they saved - they are, however, allowed to keep their score and Chaos Emeralds from when they saved, as well as any extra lives and continues earned. The collection also includes a gallery of images. \n \nIt was originally supposed to also include Sonic Spinball, Dr. Robotnik's Mean Bean Machine, and Sonic 3D Blast but none of those three games made it into the final product. \n \nThe game was met with mixed to positive reactions from critics, receiving a 70 out of 100 on Metacritic. Praise was directed at the quality of the games included, but was criticized for its lack of a multiplayer mode and how the artwork included was the only extras included.",
+    "url": "https://www.igdb.com/games/sonic-classic-collection",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/l5ssp2wskglidoa89ihi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/zx7jvbbe6u9j91xebgnt.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/za3hfilgxc6orioi20qo.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/yc8iebt3lkhnn1hezn1w.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mvbsqan4wyaw0udmmq3g.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/taaelbizgwbrf3naj8ci.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/dz9afkp8gupuxidszhsx.jpg"
+    ],
+    "price": 899
+  },
+  {
+    "code": 85274,
+    "cover": {
+      "id": 61899,
+      "game": 85274,
+      "height": 451,
+      "image_id": "nzgwz8bo67yrkxjyatyv",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/nzgwz8bo67yrkxjyatyv.jpg",
+      "width": 500,
+      "checksum": "f93ba3ab-3c29-b67e-2c40-9f2cd470efc9"
+    },
+    "first_release_date": 1192492800,
+    "genres": ["Puzzle"],
+    "name": "Mahjong Quest: Expeditions",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "mahjong-quest-expeditions",
+    "summary": "Nature has struck back! The world has fallen into a state of imbalance, splitting our teenage hero Kwazi into the male Kwazi White and female Kwazi Black. You must help guide the Kwazi’s through the mysterious orient meeting wise animals and solving challenging and entertaining boards along the way. Advance through the eight mystical lands, matching pairs and triplets like never before.",
+    "url": "https://www.igdb.com/games/mahjong-quest-expeditions",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/h4xepgvpr3bdvvhpuimd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qfxhb4bwxybuxkwlzgqr.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/cidczby6ppnyn7o8mqvi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/kgjg5i0zzbevejf6huoj.jpg"
+    ],
+    "price": 2699
+  },
+  {
+    "code": 3065,
+    "cover": {
+      "id": 93141,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 3065,
+      "height": 2000,
+      "image_id": "co1zv9",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1zv9.jpg",
+      "width": 1500,
+      "checksum": "e0b3983c-8ef5-5f75-ca3c-7a45fb47d9ab"
+    },
+    "first_release_date": 1255996800,
+    "genres": ["Simulator"],
+    "name": "Cooking Mama 3: Shop & Chop",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "cooking-mama-3-shop-chop",
+    "summary": "In Cooking Mama 3, players use the stylus as the ultimate cooking utensil to create 80 all new dishes including chili con carne, tulip chicken, mushroom quiche and more. For the first time players can shop for the necessary ingredients before they start cooking in 200 different mini-games that let them chop, grate, slice, and stir up phenomenal foods. Cooking Mama 3 also lets aspiring chefs create their own dishes by combining ingredients together in delicious new ways. In addition, the game features multiplayer cooking challenges and five other gameplay modes. As recipes progress from simple to complex and from small to large dishes, players must do their best to meet Mama's expectations and impress their hungry friends. If friends think a dish is delicious, gamers will get to unlock another new friend!",
+    "url": "https://www.igdb.com/games/cooking-mama-3-shop-chop",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/dhu3fvkcmiruknk8g2h6.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803q.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803r.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803s.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803t.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803u.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803v.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803w.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803x.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803y.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc803z.jpg"
+    ],
+    "price": 6299
+  },
+  {
+    "code": 22290,
+    "cover": {
+      "id": 51634,
+      "game": 22290,
+      "height": 575,
+      "image_id": "x0i0tyoqchvk0stqelwa",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/x0i0tyoqchvk0stqelwa.jpg",
+      "width": 532,
+      "checksum": "58a79745-d04b-2cfc-b18c-1e6b9fda768a"
+    },
+    "first_release_date": 1129766400,
+    "genres": [],
+    "name": "Space Invaders Revolution",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "space-invaders-revolution",
+    "summary": "Space Invaders Revolution is a new take on the series, which marks a true progression over any version before it: New types of invaders, new rules and new ways to destroy them. Contains a faithful reproduction of the original arcade machine in Classic Mode. New Era mode: the simple rules of Space Invaders are expanded and twisted into a revolutionary step for the classic franchise. New Era mode takes the form of a world tour, with the player confronting the Space Invaders at 20 recognisable geographical locations. In total there are 60 levels to defend and 13 different types of invader to battle. Power-ups include protective shields, additional support craft, rapid-fire shots and column-clearing laser beams - essential aides as the action becomes progressively more intense. Power-ups can be used in combination: using support craft with laser results in three laser beams, decimating multiple waves of invaders with every press of the fire button.",
+    "url": "https://www.igdb.com/games/space-invaders-revolution",
+    "screenshots": [],
+    "price": 2899
+  },
+  {
+    "code": 21481,
+    "cover": {
+      "id": 62191,
+      "game": 21481,
+      "height": 898,
+      "image_id": "pltzkljez9eblloie4da",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/pltzkljez9eblloie4da.jpg",
+      "width": 1000,
+      "checksum": "94c0908b-d9b9-79d6-7bc4-d4f7b04ee95c"
+    },
+    "first_release_date": 1186617600,
+    "genres": ["Role-playing (RPG)", "Strategy"],
+    "name": "Rondo of Swords",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "rondo-of-swords",
+    "summary": "The King of Bretwalde is dead. His passing, both unexpected and unusual, leaves the kingdom in distress. As one realm mourns, another readies for war; the Grand Meir Empire, intent on conquering the world, prepares to strike the empty throne. Taken by surprise, the army of Bretwalde collapses under the vicious assault, and the capital city of Egvard is quick to fall. Only Spanta, the sacred blade, can spare the kingdom of its fate. Free it of its curse and restore honor and peace to the land!",
+    "url": "https://www.igdb.com/games/rondo-of-swords",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/lzd9v65mrzdr8pwsqmzl.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mavedmhxmdois6khuskq.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/tjdy1w6windnowxtj4uk.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/gd872jqwd7akcqssewqx.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/pettkkuokjjbnf6myzkw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/yupmdhptry6axiwyh0a1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/gvmxapqusu3mihpwy1do.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/byqlzi2y86nxgr0fzifj.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ltn2xefq1kdfwyl75zto.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/kv5r9eg17pznjtcjufio.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/gsrej7krxxzfg1jbatbr.jpg"
+    ],
+    "price": 4199
+  },
+  {
+    "code": 20412,
+    "cover": {
+      "id": 18314,
+      "game": 20412,
+      "height": 684,
+      "image_id": "daoppzvifz8wc4f6qcxn",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/daoppzvifz8wc4f6qcxn.jpg",
+      "width": 761,
+      "checksum": "6433257d-0122-412a-aa1b-f361e7964d70"
+    },
+    "first_release_date": 1277164800,
+    "genres": [],
+    "name": "Dragon Ball: Origins 2",
+    "platform": {
+      "name": "Nintendo DS",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6t.png",
+      "url": "https://www.igdb.com/platforms/nds",
+      "slug": "nintendo-ds"
+    },
+    "slug": "dragon-ball-origins-2",
+    "summary": "In Dragon Ball: Origins 2, players battle through the Red Ribbon Army saga covering Goku’s first encounters with the nefarious Red Ribbon Army up to the resurrection of Upa’s father, a member of the native tribe who serve as the guardians of the mystical Korin Tower. The new action-adventure game includes an array of features including the ability to play as different characters along the way and the option to team up with a friend for co-op multiplayer challenges.",
+    "url": "https://www.igdb.com/games/dragon-ball-origins-2",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/voyzdpzxgsp1ahazetbf.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/yucmq4yxtete4eltkibj.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mjq5swf1hnfg5fdspdun.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/pbplnfbjpard1rnyj0lk.jpg"
+    ],
+    "price": 4599
+  },
+  {
+    "code": 115717,
+    "cover": {
+      "id": 71944,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 115717,
+      "height": 281,
+      "image_id": "co1jig",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1jig.jpg",
+      "width": 159,
+      "checksum": "a23d9ab7-c746-5658-bc9c-0f73a8312776"
+    },
+    "first_release_date": 662601600,
+    "genres": ["Puzzle"],
+    "name": "Shisen Mahjong",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "shisen-mahjong",
+    "summary": "Unlicensed NES Mahjong game.",
+    "url": "https://www.igdb.com/games/shisen-mahjong",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc67sn.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc67so.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc67sp.jpg"
+    ],
+    "price": 5499
+  },
+  {
+    "code": 48560,
+    "cover": {
+      "id": 51631,
+      "game": 48560,
+      "height": 324,
+      "image_id": "vpckeickish7hbaj2an8",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/vpckeickish7hbaj2an8.jpg",
+      "width": 300,
+      "checksum": "7b0a9c66-582d-7bfa-f938-a5b34f2df991"
+    },
+    "first_release_date": 655257600,
+    "genres": ["Shooter"],
+    "name": "Uchuu Keibitai SDF",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "uchuu-keibitai-sdf",
+    "summary": "A meteorite group floats in space, full of mystery. Near the sand filled planet, a battleship looms. Space colonies emerge in the moon light. In the endlessly wide universe, a large shooting game that unfolds .",
+    "url": "https://www.igdb.com/games/uchuu-keibitai-sdf",
+    "screenshots": [],
+    "price": 899
+  },
+  {
+    "code": 63389,
+    "cover": {
+      "id": 33660,
+      "game": 63389,
+      "height": 298,
+      "image_id": "jhqpzn84ifyxwyup4siz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/jhqpzn84ifyxwyup4siz.jpg",
+      "width": 255,
+      "checksum": "9152ae07-55ed-695a-6ef9-6e8504e6d59f"
+    },
+    "first_release_date": 722217600,
+    "genres": ["Strategy", "Quiz/Trivia"],
+    "name": "Igo-Shinan '93",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "igo-shinan-93",
+    "summary": "1993 edition of the popular go teaching game.",
+    "url": "https://www.igdb.com/games/igo-shinan-93",
+    "screenshots": [],
+    "price": 5899
+  },
+  {
+    "code": 48094,
+    "cover": {
+      "id": 27274,
+      "game": 48094,
+      "height": 2099,
+      "image_id": "gza4dpkcvtdg5uhp5xxq",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/gza4dpkcvtdg5uhp5xxq.jpg",
+      "width": 1529,
+      "checksum": "daa43ca2-6ef3-dbc4-d8ee-d19da1a78f79"
+    },
+    "first_release_date": 625881600,
+    "genres": ["Puzzle", "Quiz/Trivia"],
+    "name": "Wheel of Fortune: Junior Edition",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "wheel-of-fortune-junior-edition",
+    "summary": "Now everyone’s favorite TV Game Show is just for kids! It’s got all the excitement of the adult version… everything you see on TV and more, But the puzzles have been created just for the younger player. \n \nIt’s your turn to be the contestant. Compete against your friends or match wits with the computer. Press the button, hear the theme music, spin the wheel, solve the puzzle and win a fortune, or hit bankrupt and lose it all. There are over 1000 puzzles to keep you guessing, and if you’re stuck you can always buy a vowel. It’s time to play WHEEL OF FORTUNE!",
+    "url": "https://www.igdb.com/games/wheel-of-fortune-junior-edition",
+    "screenshots": [],
+    "price": 5899
+  },
+  {
+    "code": 22429,
+    "cover": {
+      "id": 16649,
+      "game": 22429,
+      "height": 668,
+      "image_id": "notbiqis5bm0p79jzu0x",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/notbiqis5bm0p79jzu0x.jpg",
+      "width": 477,
+      "checksum": "eac53dc3-7ee1-c527-dff7-1993faa569b9"
+    },
+    "first_release_date": 662601600,
+    "genres": ["Strategy", "Arcade"],
+    "name": "Bingo 75",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "bingo-75",
+    "summary": "Bingo 75 is a Miscellaneous game, developed by Thin Chen Enterprises and published by Sachen, which was released in Asia in 1990.",
+    "url": "https://www.igdb.com/games/bingo-75",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ucximskacgsak4dbdlqk.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/zjypbdlyakwa5oxa2hhe.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/megcsu9dymts74nusqaz.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/cpastbyezlxf4douyo7u.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/pjwzmovun0s1h5jj6utp.jpg"
+    ],
+    "price": 5799
+  },
+  {
+    "code": 48890,
+    "cover": {
+      "id": 103611,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 48890,
+      "height": 1132,
+      "image_id": "co27y3",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co27y3.jpg",
+      "width": 849,
+      "checksum": "46589fe2-05cc-83e6-3153-c5feca16fbd0"
+    },
+    "first_release_date": 1494115200,
+    "genres": ["Platform"],
+    "name": "Mystery World Dizzy",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "mystery-world-dizzy",
+    "summary": "Join Mega-Star DIZZY and the YOLKFOLK in their latest Adventure in Mystery World! Incredible Dragons' Lairs, Wizard's Cloud Castle, the Evil King's Palace and Dungeons, Mysterious new Worlds, Volcanoes and more! Featuring over 50 rooms to explore!",
+    "url": "https://www.igdb.com/games/mystery-world-dizzy",
+    "screenshots": [],
+    "price": 799
+  },
+  {
+    "code": 48114,
+    "cover": {
+      "id": 27302,
+      "game": 48114,
+      "height": 2100,
+      "image_id": "zlww37kcjjtlp2siawfy",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/zlww37kcjjtlp2siawfy.jpg",
+      "width": 1548,
+      "checksum": "ceebcbfe-d9e9-64a9-e737-d19289a5b88a"
+    },
+    "first_release_date": 709516800,
+    "genres": ["Platform"],
+    "name": "Little Samson",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "little-samson",
+    "summary": "The Imperial Forgy has been invaded by Ta-Keed the Prince of Darkness! Only the owners of the Magic Bells can stop his forces from destroying the realm. Led by the mountaineering youth, Samson, a force of unlikely heroes sets out to banish evil forever! Become a fire-breathing dragon, a living statue of solid stone or a nimble and crafty mouse. Soar the skies and belch fire balls as Kikira the Dragon Lord! Crush enemy troops with fists of granite as Gamm the Rock Lord! Scurry past dangerous monsters while setting time bombs as K.O. the mouse! These creatures join Little Samson to form a unique and powerful alliance as the last hope for the Imperial Forgy!",
+    "url": "https://www.igdb.com/games/little-samson",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qreoklwlk1lvtevayo8f.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ijnnnmya5azvoqpabwap.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qd0okt7xnbqn2to5igxo.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/bjcisyaskfkownkx8ons.jpg"
+    ],
+    "price": 5299
+  },
+  {
+    "code": 68360,
+    "cover": {
+      "id": 30076,
+      "game": 68360,
+      "height": 690,
+      "image_id": "fr81fcyqh8ftaqltlzzu",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/fr81fcyqh8ftaqltlzzu.jpg",
+      "width": 1000,
+      "checksum": "b8dae9f7-f3f3-24ea-4321-ae8c9a2d3e69"
+    },
+    "first_release_date": 514080000,
+    "genres": ["Platform"],
+    "name": "Ninja Kid",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "ninja-kid--1",
+    "summary": "Ninja Kid (Gegege no Kitarou) is a NES platformer published by Bandai. As with Super Mario Bros 2, Ninja Kid went through some significant changes for its US release.",
+    "url": "https://www.igdb.com/games/ninja-kid--1",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc698l.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc698m.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc698n.jpg"
+    ],
+    "price": 799
+  },
+  {
+    "code": 48872,
+    "first_release_date": 630460800,
+    "genres": ["Sport"],
+    "name": "Vegas Connection: Casino Kara Ai o Komete",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "vegas-connection-casino-kara-ai-o-komete",
+    "summary": "Vegas Connection: Casino Kara Ai o Komete is a Miscellaneous game, developed by Graphic Research and published by Sigma Ent. Inc., which was released in Japan in 1989.",
+    "url": "https://www.igdb.com/games/vegas-connection-casino-kara-ai-o-komete",
+    "screenshots": [],
+    "price": 4099
+  },
+  {
+    "code": 48808,
+    "cover": {
+      "id": 53313,
+      "game": 48808,
+      "height": 274,
+      "image_id": "nxgzrwdgelobexnxjjrf",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/nxgzrwdgelobexnxjjrf.jpg",
+      "width": 400,
+      "checksum": "91fe7466-0e67-28d4-6d08-004a4e0bdc72"
+    },
+    "first_release_date": 676252800,
+    "genres": ["Puzzle", "Strategy"],
+    "name": "Palamedes II: Star Twinkles",
+    "platform": {
+      "name": "Nintendo Entertainment System (NES)",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6d.png",
+      "url": "https://www.igdb.com/platforms/nes",
+      "slug": "nintendo-entertainment-system-nes"
+    },
+    "slug": "palamedes-ii-star-twinkles",
+    "summary": "Palamedes II is a puzzle game and, as it sounds, the sequel to an obscure NES puzzler. The object is to throw one of the player’s dice at a die with the same number or one away. When you clear a die, it is added to the player’s poker-like “hand” and the bottom of the screen. When you’ve got a winning hand, you can use it clear multiple lines at once. The game has two modes: Mode 1 is a survival mode and Mode 2 is a screen-clear mode.",
+    "url": "https://www.igdb.com/games/palamedes-ii-star-twinkles",
+    "screenshots": [],
+    "price": 3399
+  },
+  {
+    "code": 18682,
+    "cover": {
+      "id": 94668,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 18682,
+      "height": 1200,
+      "image_id": "co211o",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co211o.jpg",
+      "width": 900,
+      "checksum": "d38ebf5b-011f-36cd-850b-d4e8710316dc"
+    },
+    "first_release_date": 818726400,
+    "genres": ["Shooter"],
+    "name": "Loaded",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "loaded",
+    "summary": "Loaded is a violent, bloody top-down shooter which places you in the boots of one of six characters, who are all strange and deformed, from a psychotic clown to a huge baby. Loaded is a mission based game, where you have to complete various objectives, such as \"escape the prison.\" Throughout each mission, there are tons of enemies to kill. You can choose to play through the single player campaign, or you can go head to head in two player.",
+    "url": "https://www.igdb.com/games/loaded",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/c2wbjr07abwbnds1kcys.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/dyqkr4giwuczo1oquwf4.jpg"
+    ],
+    "price": 4699
+  },
+  {
+    "code": 44978,
+    "first_release_date": 955238400,
+    "genres": ["Racing"],
+    "name": "Renegade Racers",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "renegade-racers",
+    "summary": "Renegade Racers, a watercraft racing game, has three game modes including arcade, quick race and high score. The modes are further broken down into eight race modes of varying types. In Battle Race, you blast opponents during the race while Check Point Challenge requires reaching checkpoints within pre-set parameters. Other self-explanatory races include Smash & Grab, Treasure Hunt, Head-to-Head and Dodgems. Rounding out the modes are the precision events Air Time and Drop Zone. \n \nThe game features three difficulty choices, each with a different number of levels. At the easy setting there are 32 levels while the medium and hard settings have 40 and 48 levels respectively. In arcade mode, you must face increasingly difficult challenges as you complete the levels by meeting pre-determined times, tasks and finish-position parameters. As you complete various levels, a head-to-head challenge mode allows you to race against level bosses, unlocking the race for use in other play modes.",
+    "url": "https://www.igdb.com/games/renegade-racers",
+    "screenshots": [],
+    "price": 2999
+  },
+  {
+    "code": 45053,
+    "cover": {
+      "id": 50936,
+      "game": 45053,
+      "height": 446,
+      "image_id": "ryllnid9svehnruwzplt",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/ryllnid9svehnruwzplt.jpg",
+      "width": 383,
+      "checksum": "4e229a1a-315c-6a8e-3983-a95d6f9423e7"
+    },
+    "first_release_date": 958608000,
+    "genres": ["Fighting"],
+    "name": "Samurai Shodown: Warriors Rage",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "samurai-shodown-warriors-rage",
+    "summary": "A story about legendary swords. \n\"Riten-Kyo\", located on a lone island near the coastline of Edo, is now a lawless zone where underground conspiracies are forming. Seishirou Kuki, a young government warrior, quietly entered the island to conduct an investigation. There, he finds the unforgettable enemy that killed his father. Here, he will also find the surprise of his life. \n \nFeatures: \nStart with 11 different warriors \nArcade fighting/adventure action \nHidden fighting techniques \nCollect all the character cards",
+    "url": "https://www.igdb.com/games/samurai-shodown-warriors-rage",
+    "screenshots": [],
+    "price": 6399
+  },
+  {
+    "code": 65450,
+    "cover": {
+      "id": 88795,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 65450,
+      "height": 468,
+      "image_id": "co1wij",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1wij.jpg",
+      "width": 335,
+      "checksum": "67bb332b-a7af-f22b-1d03-db5815e6cf10"
+    },
+    "first_release_date": 876355200,
+    "genres": [],
+    "name": "Moonlight Syndrome",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "moonlight-syndrome",
+    "summary": "Moonlight Syndrome is a horror-themed adventure game developed and published by Human Entertainment for the PlayStation in October 1997. An entry in the company's Twilight Syndrome series, the game was directed and co-written by Goichi Suda.",
+    "url": "https://www.igdb.com/games/moonlight-syndrome",
+    "screenshots": [],
+    "price": 2099
+  },
+  {
+    "code": 44931,
+    "cover": {
+      "id": 32003,
+      "game": 44931,
+      "height": 641,
+      "image_id": "u3vx3vpa6gglmam9v6tv",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/u3vx3vpa6gglmam9v6tv.jpg",
+      "width": 640,
+      "checksum": "67a80fad-2dc4-8265-63f1-4161ccab421f"
+    },
+    "first_release_date": 899251200,
+    "genres": ["Sport"],
+    "name": "VR Baseball 99",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "vr-baseball-99",
+    "summary": "VR Baseball 99 contains all 30 major league baseball teams and stadiums. Each team consists of the 1998 opening day rosters. \n \nPlay modes include exhibition, season, and home run derby. Options include: three difficulty settings, pitch speed, arcade or simulation hitting, fielding assistance, # of innings, DH, errors, injuries, and game time(day, night, dusk, overcast, or random). \n \nSeason mode features a variety of options and statistics, including all-star voting. Leaving a pitcher in too long, colliding with a wall or another player, or a bad slide can all lead to injuries. When injuries occur the player is listed as day-to-day or is placed on the disabled list.",
+    "url": "https://www.igdb.com/games/vr-baseball-99",
+    "screenshots": [],
+    "price": 699
+  },
+  {
+    "code": 75693,
+    "cover": {
+      "id": 44391,
+      "game": 75693,
+      "height": 160,
+      "image_id": "b14o2mix4jckajryvqwp",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/b14o2mix4jckajryvqwp.jpg",
+      "width": 162,
+      "checksum": "5d91d652-6875-598b-e713-f63e71b7f4e1"
+    },
+    "first_release_date": 969753600,
+    "genres": ["Shooter"],
+    "name": "Army Men: World War - Land, Sea, Air",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "army-men-world-war-land-sea-air--1",
+    "summary": "",
+    "url": "https://www.igdb.com/games/army-men-world-war-land-sea-air--1",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/s5pl6jyw59va8c1qtyjg.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/auh9kx5nxv0vd5hnuldq.jpg"
+    ],
+    "price": 699
+  },
+  {
+    "code": 43944,
+    "cover": {
+      "id": 48176,
+      "game": 43944,
+      "height": 266,
+      "image_id": "tuj3fhmd0ftp31nfxpef",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/tuj3fhmd0ftp31nfxpef.jpg",
+      "width": 270,
+      "checksum": "14b4b491-ff72-8738-1bb4-8f584ce73055"
+    },
+    "first_release_date": 1100908800,
+    "genres": ["Sport"],
+    "name": "XS Junior League Football",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "xs-junior-league-football",
+    "summary": "American football is a sport played between two teams of eleven with the objective of scoring points by advancing the ball into the opposing team's end zone. Known in the United States simply as football, it may also be referred to informally as gridiron football, and even more rare, the \"pigskin\". The ball can be advanced by running with it or throwing it to a teammate. Points can be scored by carrying the ball over the opponent's goal line, catching a pass thrown over that goal line, kicking the ball through the opponent's goal posts or tackling an opposing ball carrier in his own end zone. \n \nXS Jr. League Football is designed to provide a fun, pick-up-and-play adaptation of the popular sport, with colorful graphics and accessible gameplay for the whole family to enjoy.",
+    "url": "https://www.igdb.com/games/xs-junior-league-football",
+    "screenshots": [],
+    "price": 1099
+  },
+  {
+    "code": 45008,
+    "cover": {
+      "id": 53022,
+      "game": 45008,
+      "height": 396,
+      "image_id": "ypbhlw4caitykl4arlm2",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/ypbhlw4caitykl4arlm2.jpg",
+      "width": 400,
+      "checksum": "9009808e-74cd-0325-c18e-23a1abc159ee"
+    },
+    "first_release_date": 909705600,
+    "genres": ["Simulator", "Strategy"],
+    "name": "Dragon Seeds",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "dragon-seeds",
+    "summary": "Enter the world of Dragon Seeds! As a Dragonsage you will need to genetically engineer, and train (essentially \"ranch\") your dragons for armed combat. Plus, you can use memory card data from any game to create high powered dragons. Dragon Seeds features a simple, RPG-like battle interface, tons of weapons and shields, and a two-player mode.",
+    "url": "https://www.igdb.com/games/dragon-seeds",
+    "screenshots": [],
+    "price": 2999
+  },
+  {
+    "code": 44853,
+    "cover": {
+      "id": 50735,
+      "game": 44853,
+      "height": 473,
+      "image_id": "vpta5jy1ice748jkideq",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/vpta5jy1ice748jkideq.jpg",
+      "width": 413,
+      "checksum": "931ccf51-78ed-9bd8-f701-7f671ef526df"
+    },
+    "first_release_date": 898387200,
+    "genres": ["Fighting", "Sport"],
+    "name": "Contender",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "contender",
+    "summary": "A boxing game that straddles the line between arcade and sim. Known as Victory Boxing 2 in Europe, Contender was the first title in the series to be released outside of Europe.",
+    "url": "https://www.igdb.com/games/contender",
+    "screenshots": [],
+    "price": 3999
+  },
+  {
+    "code": 54969,
+    "cover": {
+      "id": 30660,
+      "game": 54969,
+      "height": 515,
+      "image_id": "f8tmr3owms6qwqk0ilry",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/f8tmr3owms6qwqk0ilry.jpg",
+      "width": 518,
+      "checksum": "6693db30-6d5d-2a1a-ef4b-0f8106591e83"
+    },
+    "first_release_date": 973123200,
+    "genres": ["Sport"],
+    "name": "Kero Kero King",
+    "platform": {
+      "name": "PlayStation",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl7q.png",
+      "url": "https://www.igdb.com/platforms/ps",
+      "slug": "playstation"
+    },
+    "slug": "kero-kero-king",
+    "summary": "Kero Kero King (ケロケロキング) is the predecessor to Ribbit King, developed by Amedio and published by Media Factory. It was released exclusively in Japan on 2 November 2000 for the PlayStation.",
+    "url": "https://www.igdb.com/games/kero-kero-king",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bqb.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bqc.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8bqd.jpg"
+    ],
+    "price": 4499
+  },
+  {
+    "code": 43419,
+    "first_release_date": 1127001600,
+    "genres": [],
+    "name": "Shikigami no Shiro: Nanayozuki Gensoukyoku",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "shikigami-no-shiro-nanayozuki-gensoukyoku",
+    "summary": "Shikigami no Shiro: Nanayozuki Gensoukyoku is an Action Adventure game, developed by Alfa System and published by Kids Station, which was released in Japan in 2005.",
+    "url": "https://www.igdb.com/games/shikigami-no-shiro-nanayozuki-gensoukyoku",
+    "screenshots": [],
+    "price": 1199
+  },
+  {
+    "code": 43585,
+    "cover": {
+      "id": 25728,
+      "game": 43585,
+      "height": 2156,
+      "image_id": "cka3fi5ts911t5zedfap",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/cka3fi5ts911t5zedfap.jpg",
+      "width": 1529,
+      "checksum": "d5fa92d0-48b2-2e28-f074-8b2d1facbc25"
+    },
+    "first_release_date": 975110400,
+    "genres": ["Sport"],
+    "name": "Swing Away Golf",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "swing-away-golf",
+    "summary": "Bring your clubs, caddy, personality and attitude as you join Joe, Rachel, Kelly, Ryan and other golf nuts in a game packed with personality. Laugh, scowl, celebrate and hang your head in defeat- you're going to do it all. Play leisurely for fun, or rise from the amateur ranks to the official pro tour and experience real competition in story mode. Unlock courses, characters, and game modes while earning skill points, prizes, and virtual cash.",
+    "url": "https://www.igdb.com/games/swing-away-golf",
+    "screenshots": [],
+    "price": 3999
+  },
+  {
+    "code": 43351,
+    "cover": {
+      "id": 53793,
+      "game": 43351,
+      "height": 362,
+      "image_id": "n7cyormufm4q3otnh6sb",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/n7cyormufm4q3otnh6sb.jpg",
+      "width": 256,
+      "checksum": "5317aaf1-5fc1-d74e-a5db-21767691c3ce"
+    },
+    "first_release_date": 1067126400,
+    "genres": ["Shooter"],
+    "name": "Psyvariar - Complete Edition",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "psyvariar-complete-edition",
+    "summary": "Psyvariar: Complete Edition is a Space Shooter game, developed by Skonec and published by Success, which was released in Japan in 2002.",
+    "url": "https://www.igdb.com/games/psyvariar-complete-edition",
+    "screenshots": [],
+    "price": 6499
+  },
+  {
+    "code": 43260,
+    "cover": {
+      "id": 48461,
+      "game": 43260,
+      "height": 907,
+      "image_id": "xcrzfphgwja1dyhaqlhy",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/xcrzfphgwja1dyhaqlhy.jpg",
+      "width": 640,
+      "checksum": "49ed0f80-0793-4131-aae4-186b268e9999"
+    },
+    "first_release_date": 1163376000,
+    "genres": [],
+    "name": "Combat Ace",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "combat-ace",
+    "summary": "Combat Ace is an Action game, developed and published by Phoenix Games, which was released in Europe in 2006.",
+    "url": "https://www.igdb.com/games/combat-ace",
+    "screenshots": [],
+    "price": 5799
+  },
+  {
+    "code": 20371,
+    "cover": {
+      "id": 23417,
+      "game": 20371,
+      "height": 500,
+      "image_id": "z4krr28ase65vmweagzc",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/z4krr28ase65vmweagzc.jpg",
+      "width": 346,
+      "checksum": "66d04d02-6ab7-e23c-d7d4-4a43f96073a6"
+    },
+    "first_release_date": 1146096000,
+    "genres": ["Strategy"],
+    "name": "The Adventures of Darwin",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "the-adventures-of-darwin",
+    "summary": "In this strategy game , you become the leader of a prehistoric village. Your goal is to advance your socity by hunting and increasing your numbers. The game has three difficulty settings.",
+    "url": "https://www.igdb.com/games/the-adventures-of-darwin",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sfzteoa4vfdwckoycdsi.jpg"
+    ],
+    "price": 1999
+  },
+  {
+    "code": 61545,
+    "cover": {
+      "id": 41559,
+      "game": 61545,
+      "height": 569,
+      "image_id": "pvtnlmhioxtoa9uzxu8j",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/pvtnlmhioxtoa9uzxu8j.jpg",
+      "width": 400,
+      "checksum": "bcb5f172-b607-31b8-5ceb-da8d0cb206f0"
+    },
+    "first_release_date": 1157068800,
+    "genres": ["Sport"],
+    "name": "Cue Academy",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "cue-academy",
+    "summary": "A snooker, pool, and billiards game for the PlayStation 2.",
+    "url": "https://www.igdb.com/games/cue-academy",
+    "screenshots": [],
+    "price": 6299
+  },
+  {
+    "code": 20510,
+    "cover": {
+      "id": 18726,
+      "game": 20510,
+      "height": 898,
+      "image_id": "gjmsxbxc2i6knxjgfh0w",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/gjmsxbxc2i6knxjgfh0w.jpg",
+      "width": 716,
+      "checksum": "bdc0e2e4-c38a-2ff5-7d1a-e30aed6dc595"
+    },
+    "first_release_date": 1117065600,
+    "genres": ["Role-playing (RPG)", "Adventure"],
+    "name": "Atelier Iris 2: The Azoth of Destiny",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "atelier-iris-2-the-azoth-of-destiny",
+    "summary": "The 7th core Atelier game and the second in the Iris Series.\nIts story is a Prequel to the first game.",
+    "url": "https://www.igdb.com/games/atelier-iris-2-the-azoth-of-destiny",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/jpwjfihsdzjyilfqmgi8.jpg"
+    ],
+    "price": 5299
+  },
+  {
+    "code": 66390,
+    "cover": {
+      "id": 47698,
+      "game": 66390,
+      "height": 265,
+      "image_id": "eaiqfsldbsdrl0aip19w",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/eaiqfsldbsdrl0aip19w.jpg",
+      "width": 190,
+      "checksum": "34627c9c-5d24-d5f8-4416-2c18963673a8"
+    },
+    "first_release_date": 1117065600,
+    "genres": [],
+    "name": "Ultraman Nexus",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "ultraman-nexus",
+    "summary": "Ultraman Nexus is a Playstation 2 fighting game based on the japenese television series of the same name.",
+    "url": "https://www.igdb.com/games/ultraman-nexus",
+    "screenshots": [],
+    "price": 2899
+  },
+  {
+    "code": 72605,
+    "cover": {
+      "id": 106838,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 72605,
+      "height": 500,
+      "image_id": "co2afq",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2afq.jpg",
+      "width": 351,
+      "checksum": "2795b8d6-276b-9300-13c4-81b602f8609d"
+    },
+    "first_release_date": 1101945600,
+    "genres": ["Fighting"],
+    "name": "Ultraman Fighting Evolution 3",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "ultraman-fighting-evolution-3",
+    "summary": "Ultraman Fighting Evolution 3 (ウルトラマン Fightingファイティング Evolutionエボリューション 3スリー Urutoraman Faitingu Eboryūshon Surī) also called \"Ultraman FE3\" is a Fighting game developed and published by Banpresto. it is the 3rd in the Ultraman Fighting Evolution series. The direction is provided by Yuji Machi, who acted as Ultraman Tiga's voice actor as well.",
+    "url": "https://www.igdb.com/games/ultraman-fighting-evolution-3",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cp0.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cp1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cp2.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cp3.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cp4.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8cp5.jpg"
+    ],
+    "price": 3599
+  },
+  {
+    "code": 20829,
+    "cover": {
+      "id": 43473,
+      "game": 20829,
+      "height": 1117,
+      "image_id": "pzvxzixnc988rbengkym",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/pzvxzixnc988rbengkym.jpg",
+      "width": 800,
+      "checksum": "5c512281-922c-02e2-c24f-1ee18b2326eb"
+    },
+    "first_release_date": 1142294400,
+    "genres": ["Shooter", "Tactical", "Adventure"],
+    "name": "Metal Gear Solid 3: Subsistence - Limited Edition",
+    "platform": {
+      "name": "PlayStation 2",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl72.png",
+      "url": "https://www.igdb.com/platforms/ps2",
+      "slug": "playstation-2"
+    },
+    "slug": "metal-gear-solid-3-subsistence-limited-edition",
+    "summary": "This limited edition version of Metal Gear Solid 3: Subsistence comes in a special keepsake box and includes a copy of the game and a bonus \"Existence\" disc. The Existence disc is a theater disc that presents the game's storyline and cutscenes edited to be suitable for a standalone movie-style release.",
+    "url": "https://www.igdb.com/games/metal-gear-solid-3-subsistence-limited-edition",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc79cu.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc79cv.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc79cw.jpg"
+    ],
+    "price": 5299
+  },
+  {
+    "code": 90094,
+    "cover": {
+      "id": 63792,
+      "game": 90094,
+      "height": 720,
+      "image_id": "xxbmdbf5geqp06mheesl",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/xxbmdbf5geqp06mheesl.jpg",
+      "width": 1280,
+      "checksum": "0dca70cf-f2b9-b0ad-cc3f-7df0a47f9f10"
+    },
+    "first_release_date": 1518480000,
+    "genres": ["Platform", "Puzzle"],
+    "name": "Pop-Up Pilgrims",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "pop-up-pilgrims",
+    "summary": "Floating Cloud God and his devoted pilgrims have a big adventure ahead! Put on your Playstation®VR headset and discover a world of pop-up islands, colorful characters, and deadly demons, all uniquely presented as 2D graphics in a wrap-around 3D space. More than 50 stages curve around the player as they try to lead the pilgrims from platform to platform – left, right, in or out – to take on a cast of lively enemies and find a safe route to the exit.",
+    "url": "https://www.igdb.com/games/pop-up-pilgrims",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/hjbaun0gn8vcxoo0xzpm.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/cpduw2z2wt0qifboroun.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/toj8g42wdn4pg5gz5nli.jpg"
+    ],
+    "price": 3499
+  },
+  {
+    "code": 97250,
+    "cover": {
+      "id": 79465,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 97250,
+      "height": 1370,
+      "image_id": "co1pbd",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1pbd.jpg",
+      "width": 1028,
+      "checksum": "4bcb5249-2bdf-6ccd-8f6c-7615d5adb020"
+    },
+    "first_release_date": 1523923200,
+    "genres": ["Sport", "Hack and slash/Beat 'em up", "Adventure"],
+    "name": "Yakuza 6: The Song of Life - Launch Edition",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "yakuza-6-the-song-of-life-launch-edition",
+    "summary": "The Launch Edition of Yakuza 6: The Song of Life includes the Hardcover Art Book Package.",
+    "url": "https://www.igdb.com/games/yakuza-6-the-song-of-life-launch-edition",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qz3v8xuu4fr0xxtaddbp.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mjgu5gpu1zyftnzgiwds.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/tsk45vbnyxtwpeczbaes.jpg"
+    ],
+    "price": 3899
+  },
+  {
+    "code": 53043,
+    "cover": {
+      "id": 29163,
+      "game": 53043,
+      "height": 711,
+      "image_id": "edir3anwriq06bwfgvzn",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/edir3anwriq06bwfgvzn.jpg",
+      "width": 568,
+      "checksum": "ab7fb056-07fb-dc44-330a-c4e5cefa6b80"
+    },
+    "genres": ["Point-and-click", "Puzzle", "Role-playing (RPG)"],
+    "name": "Without Memory",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "without-memory",
+    "summary": "The main concept of the game is based on the idea of the existence of three parallel worlds. Player actions in one universe affect events in the other two. The main key feature of the game will be a non-linear narrative that supposes multiple endings. This variety will be reached due to three playable characters, each of which could be killed or survive depending on the player decisions.",
+    "url": "https://www.igdb.com/games/without-memory",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/oie39si2ze7dvwffegkl.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/y8ijihzzvxuorjpuaw1h.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/yzr8lu7tym2wpcv3q8es.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ykyejbwrfsyalyufajuh.jpg"
+    ],
+    "price": 899
+  },
+  {
+    "code": 55020,
+    "cover": {
+      "id": 102974,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 55020,
+      "height": 800,
+      "image_id": "co27ge",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co27ge.jpg",
+      "width": 600,
+      "checksum": "48d96d62-cbd1-9d1a-c26f-468ddf3fe466"
+    },
+    "first_release_date": 1546214400,
+    "genres": [],
+    "name": "White Day 2: Swan Song",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "white-day-2-swan-song",
+    "summary": "",
+    "url": "https://www.igdb.com/games/white-day-2-swan-song",
+    "screenshots": [],
+    "price": 3899
+  },
+  {
+    "code": 26083,
+    "cover": {
+      "id": 19116,
+      "game": 26083,
+      "height": 450,
+      "image_id": "vi0amxwgdcaovcwiyzx1",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/vi0amxwgdcaovcwiyzx1.jpg",
+      "width": 450,
+      "checksum": "a2e9a4c9-7ba6-7d13-b2c7-4103e676ed6b"
+    },
+    "first_release_date": 1479772800,
+    "genres": [],
+    "name": "Warframe: Valkyr Prime Access Pack",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "warframe-valkyr-prime-access-pack",
+    "summary": "Instantly unlock the newest Primes and highly discounted Platinum! Prime variants are the most elusive and sought after items by Tenno. For a limited time, purchase this Pack and gain instant access to Valkyr Prime, Venka Prime, and more!\n\nThe Valkyr Prime Access Pack includes: \n- 2625 Platinum – Highly discounted premium currency\n- Valkyr Prime – A proud fighter unscarred by time or malice\n- Cernos Prime – A noble bow to hunt hellish beasts\n- Venka Prime – Razor-sharp claws to slash through your enemies\n- Exclusive Valkyr Prime Avatars – Show your loyalty in-game and in our community with these exclusive profile icons",
+    "url": "https://www.igdb.com/games/warframe-valkyr-prime-access-pack",
+    "screenshots": [],
+    "price": 5099
+  },
+  {
+    "code": 55112,
+    "cover": {
+      "id": 85836,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 55112,
+      "height": 1000,
+      "image_id": "co1u8c",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1u8c.jpg",
+      "width": 750,
+      "checksum": "0ed81388-32ed-d6ed-b41b-30284d6be44e"
+    },
+    "first_release_date": 1520467200,
+    "genres": ["Hack and slash/Beat 'em up", "Adventure"],
+    "name": "Fist of the North Star: Lost Paradise",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "fist-of-the-north-star-lost-paradise",
+    "summary": "Hokuto Ga Gotoku is a video game by Sega scheduled to be released for the PlayStation 4 in 2018. It is a 3D action-adventure game by the developers of Sega's Yakuza series (known as Ryū Ga Gotoku in Japan) and features the voice cast of the Yakuza series portraying established Hokuto no Ken characters. The story takes place in an alternate universe, as Kenshiro wanders into the post-apocalyptic haven of Eden in search of his lost love Yuria.",
+    "url": "https://www.igdb.com/games/fist-of-the-north-star-lost-paradise",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/odqfjgmynvoqq7ywlklq.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/myyqe1q4o7idh73ckiwd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/brbukjy4y6q7gpeyoqvd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/zidvoe8ajiyyi3w4gppj.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/udnucjdtj0vroqdie8lb.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/j28jysanh7q7h9plbbp9.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sxfmvown4affbm9xq0f0.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/co4aoosx23leq0cqgmqb.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/jgtzotfacyrz8hlveoxq.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/yrlbfiksqwn5qcgcvnxo.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/o18ouleghfsgmprah11v.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/t2mptzz4rll1hpvewvw5.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/jf6leppihnnuy9cn7fmg.jpg"
+    ],
+    "price": 1699
+  },
+  {
+    "code": 37141,
+    "cover": {
+      "id": 96819,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 37141,
+      "height": 840,
+      "image_id": "co22pf",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co22pf.jpg",
+      "width": 630,
+      "checksum": "8934cc88-12b2-4a12-32cf-cef62cc7d951"
+    },
+    "first_release_date": 1499126400,
+    "genres": [],
+    "name": "That's You!",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "thats-you",
+    "summary": "Which of your family members would survive longest in the wild?",
+    "url": "https://www.igdb.com/games/thats-you",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ai3idqgmludu9bdd3e2t.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/hjzxstmpur9hijctj8wi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/hyyipfjwiaf6sj1egmh9.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/mvtvkj52nwtdsy3h5eoq.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/m4x9xktl6smyaoka5ozn.jpg"
+    ],
+    "price": 5799
+  },
+  {
+    "code": 103404,
+    "cover": {
+      "id": 71075,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 103404,
+      "height": 240,
+      "image_id": "co1iub",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1iub.jpg",
+      "width": 240,
+      "checksum": "d6e8b9d2-b519-5ff1-b0ed-9a6509e363e6"
+    },
+    "first_release_date": 1542067200,
+    "genres": [],
+    "name": "Chimparty",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "chimparty",
+    "summary": "Announced as part of Sony's latest PlayLink E3 2018 Trailer.",
+    "url": "https://www.igdb.com/games/chimparty",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5m0q.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ztf.jpg"
+    ],
+    "price": 6499
+  },
+  {
+    "code": 58479,
+    "cover": {
+      "id": 29957,
+      "game": 58479,
+      "height": 1024,
+      "image_id": "v3l0voobqkaucxytkcdf",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/v3l0voobqkaucxytkcdf.jpg",
+      "width": 892,
+      "checksum": "5e61e5a3-277a-e2a9-d07e-b80f9f908ff2"
+    },
+    "genres": ["Platform", "Puzzle", "Indie"],
+    "name": "Out of Line",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "out-of-line",
+    "summary": "Out of Line is an upcoming platform/action-adventure videogame being developed by Duckling Studios, for PlayStation 4 and PC/MAC. Winner of PlayStation® Talents Awards 2017 in the categories \"Best Game\" and \"Press Award\". Runner up in the categories \"Most Innovative Game\", \"Best Art\" and \"Best Kids Game\". \nHelp little San and his brothers journey, solve difficult puzzles, alongside action challenges in their quest to survive and escape the “factory”.",
+    "url": "https://www.igdb.com/games/out-of-line",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/cijvjv1ts0e3pra3ebwy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/z6ajpkjed0v5qtn3a4zk.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qcbseegheyjjub0ksrkg.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/wyyfjxcyh7idbyvv4bre.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/dr5xhu3lujqe9cspdidw.jpg"
+    ],
+    "price": 3499
+  },
+  {
+    "code": 69980,
+    "cover": {
+      "id": 31632,
+      "game": 69980,
+      "height": 320,
+      "image_id": "mcovbcszzlyay3czoexz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/mcovbcszzlyay3czoexz.jpg",
+      "width": 320,
+      "checksum": "3c850a45-0dc5-89e3-08ce-0b6f60eb849f"
+    },
+    "first_release_date": 1424908800,
+    "genres": ["Platform", "Arcade"],
+    "name": "Arcade Archives CRAZY CLIMBER2",
+    "platform": {
+      "name": "PlayStation 4",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6f.png",
+      "url": "https://www.igdb.com/platforms/ps4--1",
+      "slug": "playstation-4"
+    },
+    "slug": "arcade-archives-crazy-climber2",
+    "summary": "'CRAZY CLIMBER2' is an action game that was released from Nichibutsu in 1988. \nThis is the sequel to the original 'CRAZY CLIMBER' that gained popularity among people in the know. \nThe stages are now set in the United States but the same gameplay applies. The climber will attempt to reach the top of buildings while characters relentlessly interfere with his progress. \nPlayers control the right hand and left hand with each control stick. Try to overcome various obstacles to climb to the top of the skyscraper!",
+    "url": "https://www.igdb.com/games/arcade-archives-crazy-climber2",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/rqrdyratrefov22xmpd1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/pmusdodxot7lrh2wmjnn.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/u2j3flijlmvwkmcjl0yt.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/psudsmris8adhwxebeg1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/wonfgop8vv9ht3uiqvcd.jpg"
+    ],
+    "price": 1499
+  },
+  {
+    "code": 108083,
+    "cover": {
+      "id": 94302,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 108083,
+      "height": 800,
+      "image_id": "co20ri",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co20ri.jpg",
+      "width": 600,
+      "checksum": "24cbcc6e-ed95-4671-68e0-642bc9f5b8ea"
+    },
+    "first_release_date": 1573776000,
+    "genres": ["Puzzle", "Strategy", "Indie"],
+    "name": "Mars Power Industries",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "mars-power-industries",
+    "summary": "Congratulations on your first tiny colony! Taking the post of Plumber/Electrician must be tough out there, we know how lonely it might get and you probably miss your family. Don’t worry! We provide music. No silence in space. Studies show employees exhibit high degree of stress when surrounded by silence, so it is to be avoided. The pleasant soothing sounds of distant synth music will calm you right away… and continue calming you through the years… Imagine a spaceship slowly moving through endless black pudding, with no one on board but you and the lights. But the lights are broken. That’s the point – please fix the lights!",
+    "url": "https://www.igdb.com/games/mars-power-industries",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6qur.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6qus.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc81vi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc81vj.jpg"
+    ],
+    "price": 5499
+  },
+  {
+    "code": 114421,
+    "cover": {
+      "id": 105803,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 114421,
+      "height": 1080,
+      "image_id": "co29mz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co29mz.jpg",
+      "width": 810,
+      "checksum": "8404bf79-e35f-80b5-a22b-a0e9efe876f7"
+    },
+    "first_release_date": 1548892800,
+    "genres": ["Role-playing (RPG)", "Adventure"],
+    "name": "Moero Chronicle Hyper",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "moero-chronicle-hyper",
+    "summary": "System-side enhancements like “Auto-Pilot” and “Status Up Items!” With HD image quality and HD rumble support, you can enjoy Monster Girls with even more hype! \n \nA world where humans and Monster Girls coexist. When a natural disaster suddenly occurs, the Monster Girls start to act hostile towards the humans. In order to find the cause of this, an ordinary young man named Io sets out on an adventure with Lilia, his childhood friend and a Monster Girl.",
+    "url": "https://www.igdb.com/games/moero-chronicle-hyper",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zxv.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zxw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zxx.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zxy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zxz.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zy0.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5zy1.jpg"
+    ],
+    "price": 3999
+  },
+  {
+    "code": 103362,
+    "cover": {
+      "id": 97862,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 103362,
+      "height": 1000,
+      "image_id": "co23ie",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co23ie.jpg",
+      "width": 750,
+      "checksum": "3fe39b87-05dd-faf3-d9bb-123508c45fe6"
+    },
+    "first_release_date": 1528934400,
+    "genres": ["Platform", "Arcade"],
+    "name": "Arcade Archives DONKEY KONG",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "arcade-archives-donkey-kong",
+    "summary": "DONKEY KONG is an action game released in 1981 by Nintendo. Avoid a variety of obstacles while heading through a construction site to make it to the top and rescue Lady. Use the hammer to destroy the barrels and fire coming towards you to earn more points.",
+    "url": "https://www.igdb.com/games/arcade-archives-donkey-kong",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc84iw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc84ix.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc84iy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc84iz.jpg"
+    ],
+    "price": 3699
+  },
+  {
+    "code": 118579,
+    "first_release_date": 1560988800,
+    "genres": ["Shooter", "Arcade"],
+    "name": "Arcade Archives WILD WESTERN",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "arcade-archives-wild-western",
+    "summary": "It's time for the sheriff to get on his horse and race across the wild western frontier to take down the outlaws! \nWILD WESTERN is an action game released by TAITO in 1982. \n \nPlay as a horse-riding sheriff to deal justice with your pistol to the outlaws attacking you from all directions. \n \nThere are even battles atop the roof of a train. Leap off your horse onto the roof of the train without falling, and shoot down the bad guys before they take over the train! \n \nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces. \n \nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.",
+    "url": "https://www.igdb.com/games/arcade-archives-wild-western",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc77iv.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc77iw.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc77ix.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc77iy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc77iz.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc77j0.jpg"
+    ],
+    "price": 5499
+  },
+  {
+    "code": 118783,
+    "cover": {
+      "id": 92489,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 118783,
+      "height": 960,
+      "image_id": "co1zd5",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1zd5.jpg",
+      "width": 720,
+      "checksum": "8f27a951-d894-f1c6-419b-6d2920886a0d"
+    },
+    "first_release_date": 1581638400,
+    "genres": ["Adventure", "Indie", "Arcade"],
+    "name": "The Incredible Adventures of Super Panda",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "the-incredible-adventures-of-super-panda",
+    "summary": "A sinister rot has gripped Panda land. Super Panda embarks on an epic quest to find the source of the rot and save his beloved homeland. Join the Incredible Adventures of Super Panda on a gripping adventure to save his homeworld.",
+    "url": "https://www.igdb.com/games/the-incredible-adventures-of-super-panda",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwb.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwc.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwe.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwf.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwg.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwh.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwj.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6lwk.jpg"
+    ],
+    "price": 1799
+  },
+  {
+    "code": 122238,
+    "cover": {
+      "id": 103133,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 122238,
+      "height": 800,
+      "image_id": "co27kt",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co27kt.jpg",
+      "width": 600,
+      "checksum": "91b126a0-f11f-0930-58f5-e582b05c70df"
+    },
+    "first_release_date": 1590710400,
+    "genres": ["Role-playing (RPG)"],
+    "name": "Xenoblade Chronicles: Definitive Edition",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "xenoblade-chronicles-definitive-edition",
+    "summary": "Discover the origins of Shulk as he and his companions clash against a seemingly-unstoppable mechanical menace. Wield a future-seeing blade, chain together attacks, and carefully position your party members in strategic, real-time combat as you journey across a massive world. \n \nDuring an attack from the mechanical invaders known as the Mechon, Shulk discovers that he can tap into the full power of a mysterious blade known as the Monado. With the mighty Monado in hand, Shulk sets out to defeat the Mechon once and for all. \n \nIn addition to the Mechon, you’ll run into wildlife that ranges from docile to deadly. Keep an eye on what attracts monsters’ attention to avoid unwanted conflict…or try your hand at bringing down an ultra-powerful Unique Monster. \n \nUpgrade your party as you progress through the adventure by selecting equipment, enhancing weapon skills, and using benefit-granting gems. Put your dependable companions to work by filling the party gauge to trigger a Chain Attack and attack enemies in quick succession!",
+    "url": "https://www.igdb.com/games/xenoblade-chronicles-definitive-edition",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc6z07.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc82l1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc82l2.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc82l3.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc82l4.jpg"
+    ],
+    "price": 1199
+  },
+  {
+    "code": 125122,
+    "cover": {
+      "id": 101159,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 125122,
+      "height": 1000,
+      "image_id": "co261z",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co261z.jpg",
+      "width": 750,
+      "checksum": "51607a74-09a2-ca59-a7c7-907532adafcc"
+    },
+    "first_release_date": 1573689600,
+    "genres": ["Platform", "Puzzle"],
+    "name": "Squidgies Takeover",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "squidgies-takeover",
+    "summary": "You control the Squidgies, hapless little blobs of adorableness, that need your help to escape their Momma's tentacles and make their new home on planets across the galaxy.",
+    "url": "https://www.igdb.com/games/squidgies-takeover",
+    "screenshots": [],
+    "price": 2299
+  },
+  {
+    "code": 27298,
+    "cover": {
+      "id": 103464,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 27298,
+      "height": 1300,
+      "image_id": "co27u0",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co27u0.jpg",
+      "width": 975,
+      "checksum": "c0312fd6-290b-c470-5a7e-e073d61b6a4e"
+    },
+    "first_release_date": 1512086400,
+    "genres": ["Role-playing (RPG)", "Adventure"],
+    "name": "Xenoblade Chronicles 2: Special Edition",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "xenoblade-chronicles-2-special-edition",
+    "summary": "Includes a 220 page premium hardbound art book containing beautifully illustrated concept designs and artwork of the characters, landscapes and objects from the game, a special metal game case, plus game, and a sound selection CD featuring memorable music tracks from the game.",
+    "url": "https://www.igdb.com/games/xenoblade-chronicles-2-special-edition",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/y1hrx4ngaq6snfosml04.jpg"
+    ],
+    "price": 699
+  },
+  {
+    "code": 109457,
+    "cover": {
+      "id": 86169,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 109457,
+      "height": 2756,
+      "image_id": "co1uhl",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1uhl.jpg",
+      "width": 2067,
+      "checksum": "c2536e98-c936-c585-1c3b-29066237bc2b"
+    },
+    "first_release_date": 1547164800,
+    "genres": ["Platform"],
+    "name": "New Super Mario Bros. U Deluxe",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "new-super-mario-bros-u-deluxe",
+    "summary": "New Super Mario Bros. U including New Super Luigi U. for the Nintendo Switch!",
+    "url": "https://www.igdb.com/games/new-super-mario-bros-u-deluxe",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/dnubasrryx51b80koamd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5pti.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ptj.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ptk.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc5ptl.jpg"
+    ],
+    "price": 5699
+  },
+  {
+    "code": 95614,
+    "cover": {
+      "id": 91254,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 95614,
+      "height": 800,
+      "image_id": "co1yeu",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1yeu.jpg",
+      "width": 600,
+      "checksum": "621d3399-403d-ba6b-b38f-517f77423676"
+    },
+    "first_release_date": 1578355200,
+    "genres": ["Puzzle", "Strategy", "Adventure", "Indie"],
+    "name": "Nicky: The Home Alone Golf Ball",
+    "platform": {
+      "name": "Nintendo Switch",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pleu.png",
+      "url": "https://www.igdb.com/platforms/switch",
+      "slug": "nintendo-switch"
+    },
+    "slug": "nicky-the-home-alone-golf-ball",
+    "summary": "A poor and home alone golf ball needs your help to get your goal - to find his home ( a hole in a golf track ) in less movements as possible. \nNicky moves only with mouse, you just need to drag, look at some point and release. \nThe game is funny and challenging!",
+    "url": "https://www.igdb.com/games/nicky-the-home-alone-golf-ball",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/tgrkbko3sbngvnkil1gy.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/klcpibzzmbgn9pdwoo7n.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/r3lxwufn6vwfzrfni2ab.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/s27xzsqljv2xcez00dqd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/nko5ttcydpvk4b73xa6s.jpg"
+    ],
+    "price": 5899
+  },
+  {
+    "code": 54647,
+    "cover": {
+      "id": 50281,
+      "game": 54647,
+      "height": 350,
+      "image_id": "hdqn3izqpsqcz5lhsiux",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/hdqn3izqpsqcz5lhsiux.jpg",
+      "width": 702,
+      "checksum": "02a6f85f-80b1-99ea-6d7c-b9d5cc6f1363"
+    },
+    "genres": ["Role-playing (RPG)"],
+    "name": "Cry On",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "cry-on",
+    "summary": "A cancelled action RPG by Final Fantasy designer Hironobu Sakaguchi's company Mistwalker. It was first announced in 2005, and canceled in late 2008.",
+    "url": "https://www.igdb.com/games/cry-on",
+    "screenshots": [],
+    "price": 2999
+  },
+  {
+    "code": 7536,
+    "cover": {
+      "id": 96990,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 7536,
+      "height": 1259,
+      "image_id": "co22u6",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co22u6.jpg",
+      "width": 944,
+      "checksum": "4aa8298f-7b2a-010f-e505-29b8bc2d8c5b"
+    },
+    "first_release_date": 1320710400,
+    "genres": ["Simulator", "Sport"],
+    "name": "Your Shape Fitness Evolved 2012",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "your-shape-fitness-evolved-2012",
+    "summary": "Your Shape Fitness Evolved 2012 is the sequel to Your Shape: Fitness Evolved, the #1 fitness franchise on Kinect for Xbox 360. Exercise your way with a fun and customizable experience that delivers serious results. Your Shape includes over 90 hours of activities, so you can design a workout tailored to your fitness level, goals, schedule and preferences. Focus your workouts on specific muscle groups. And choose from fitness activities like Boot Camp, Cardio Boxing, Jump Rope and Yoga, and new dance classes like Latin, Hip-hop, African and Bollywood. The state-of-the-art motion tracking provides feedback on your moves, and now tracks floor exercises like push-ups and sit-ups. With Your Shape Center, share and compete with your friends and the global community.",
+    "url": "https://www.igdb.com/games/your-shape-fitness-evolved-2012",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/zefmh446ycfdbm3dlcha.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ae5mwtkiecgrrh4pgpqt.jpg"
+    ],
+    "price": 2799
+  },
+  {
+    "code": 23272,
+    "first_release_date": 1272585600,
+    "genres": ["Fighting"],
+    "name": "Samurai Shodown Sen",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "samurai-shodown-sen",
+    "summary": "Samurai Shodown Sen follows a young European girl named Suzu, rescued from a sinking ship off Japan's coast, adopted by the Amori Clan and raised as Princess Suzu. A decade later she saves Takechiyo, a self-proclaimed master of martial arts, after his ship sinks and he ends up washed on the beach; soon after this chance meeting, the tables turn when Princess Suzu mysteriously disappears and Takechiyo pledges to find his missing rescuer. \n \nStaying close to its roots, alongside Princess Suzu, Takechiyo and a host of new characters, a plethora of old favorites from the series have been faithfully incorporated, including Haohmaru, Galford, Hanzo Hattori, Nakoruru and Ukyo Tachibana- taking the warriors to over 20 in total. Players can become any one of these unique fighters via the Xbox LIVE online entertainment network, to battle friends to see who can reach the top of a worldwide online ranking system.",
+    "url": "https://www.igdb.com/games/samurai-shodown-sen",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/eghkwifjdbyefswyiinc.jpg"
+    ],
+    "price": 3699
+  },
+  {
+    "code": 59778,
+    "cover": {
+      "id": 39270,
+      "game": 59778,
+      "height": 300,
+      "image_id": "vcrbovuc2q0dmibse3p1",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/vcrbovuc2q0dmibse3p1.jpg",
+      "width": 219,
+      "checksum": "83f96def-d3d5-bd7c-dd4e-eeafc3ee21a5"
+    },
+    "first_release_date": 1371600000,
+    "genres": ["Shooter"],
+    "name": "Avatar Warfare!",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "avatar-warfare",
+    "summary": "An Xbox Live Indie Games first-person shooter featuring Xbox Avatars.",
+    "url": "https://www.igdb.com/games/avatar-warfare",
+    "screenshots": [],
+    "price": 699
+  },
+  {
+    "code": 2657,
+    "cover": {
+      "id": 96810,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 2657,
+      "height": 944,
+      "image_id": "co22p6",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co22p6.jpg",
+      "width": 708,
+      "checksum": "66fd9c9d-0c14-0966-dc70-559f408d4afc"
+    },
+    "first_release_date": 1288828800,
+    "genres": ["Sport", "Adventure"],
+    "name": "Kinect Adventures",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "kinect-adventures",
+    "summary": "Kinect Adventures! is a sports video game released by Microsoft Game Studios for the Xbox 360. Released in 2010, it is a collection of five adventure and sports minigames and was developed by Good Science Studio, a subsidiary of Microsoft Game Studios. The game utilizes the Kinect motion camera and was offered as a pack-in game with the console. It was officially unveiled at the 2010 Electronic Entertainment Expo in Los Angeles and went on to become the best selling game on the Xbox 360, selling 24 million units worldwide.",
+    "url": "https://www.igdb.com/games/kinect-adventures",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc62gb.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc62gc.jpg"
+    ],
+    "price": 3199
+  },
+  {
+    "code": 6933,
+    "cover": {
+      "id": 7099,
+      "game": 6933,
+      "height": 353,
+      "image_id": "oddw9oef6jqwtedjf3lw",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/oddw9oef6jqwtedjf3lw.jpg",
+      "width": 250,
+      "checksum": "c2d69e45-b1da-1ee9-f184-e23177f78b72"
+    },
+    "first_release_date": 1332806400,
+    "genres": [
+      "Fighting",
+      "Shooter",
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Arcade"
+    ],
+    "name": "Capcom Digital Collection",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "capcom-digital-collection",
+    "summary": "Capcom Digital Collection is a compilation of arcade games released by Capcom for the Xbox 360. The game was released on March 27, 2012 in North America and March 30, 2012 in Europe. \n \n \nThe collection features eight games previously available via Xbox Live Arcade for Xbox 360. \n \n \n 1.Super Street Fighter II Turbo HD Remix, \n 2.Final Fight: Double Impact, \n 3.Super Puzzle Fighter II Turbo HD Remix, \n 4.1942: Joint Strike, \n 5.Bionic Commando Rearmed 2, \n 6.Flock!, \n 7.Rocketmen: Axis of Evil including Rocketmen : It Came From Uranus expansion, \n 8.Wolf of the Battlefield: Commando 3",
+    "url": "https://www.igdb.com/games/capcom-digital-collection",
+    "screenshots": [],
+    "price": 3699
+  },
+  {
+    "code": 20159,
+    "cover": {
+      "id": 96977,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 20159,
+      "height": 1693,
+      "image_id": "co22tt",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co22tt.jpg",
+      "width": 1270,
+      "checksum": "6987771b-10a3-a601-c897-996a764492c7"
+    },
+    "first_release_date": 1315267200,
+    "genres": [],
+    "name": "Rise of Nightmares",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "rise-of-nightmares",
+    "summary": "Rise of Nightmares is a survival horror video game developed and published by Sega for the Xbox 360. The game was revealed at the 2010 Tokyo Game Show, and is designed specifically for Kinect. It is the first M-rated Kinect game released.",
+    "url": "https://www.igdb.com/games/rise-of-nightmares",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/drwgjhcfudka2b6ahlhj.jpg"
+    ],
+    "price": 6199
+  },
+  {
+    "code": 16742,
+    "cover": {
+      "id": 109050,
+      "alpha_channel": true,
+      "animated": false,
+      "game": 16742,
+      "height": 1333,
+      "image_id": "co2c56",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c56.jpg",
+      "width": 1000,
+      "checksum": "4a457c04-e044-6461-67d0-8b890d7fdffe"
+    },
+    "first_release_date": 1302480000,
+    "genres": ["Music", "Arcade"],
+    "name": "Boom Boom Rocket",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "boom-boom-rocket",
+    "summary": "Boom Boom Rocket is a downloadable video game for Xbox 360's Xbox Live Arcade service. Boom Boom Rocket marks the first rhythm game for the Live Arcade service and was developed by Geometry Wars creators Bizarre Creations and published by the Pogo division of Electronic Arts.",
+    "url": "https://www.igdb.com/games/boom-boom-rocket",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/h8akxq8dsqdhevwafbei.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/drw1hjws97vnuvr6dtui.jpg"
+    ],
+    "price": 2299
+  },
+  {
+    "code": 7136,
+    "cover": {
+      "id": 88256,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 7136,
+      "height": 2079,
+      "image_id": "co1w3k",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co1w3k.jpg",
+      "width": 1485,
+      "checksum": "ffa625a5-382a-e7c2-19cc-e1af20349ddc"
+    },
+    "first_release_date": 1159401600,
+    "genres": ["Shooter", "Simulator"],
+    "name": "Project Sylpheed",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "project-sylpheed",
+    "summary": "",
+    "url": "https://www.igdb.com/games/project-sylpheed",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc7iep.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc7ieq.jpg"
+    ],
+    "price": 2799
+  },
+  {
+    "code": 41597,
+    "cover": {
+      "id": 55519,
+      "game": 41597,
+      "height": 1316,
+      "image_id": "jgi4ohvuhm7ddvhuitde",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/jgi4ohvuhm7ddvhuitde.jpg",
+      "width": 1063,
+      "checksum": "2340cafd-3ddc-3f07-4fd1-aceb686741f0"
+    },
+    "first_release_date": 1323561600,
+    "genres": ["Role-playing (RPG)", "Adventure"],
+    "name": "The Elder Scrolls V: Skyrim Collector's Edition",
+    "platform": {
+      "name": "Xbox 360",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl6y.png",
+      "url": "https://www.igdb.com/platforms/xbox360",
+      "slug": "xbox-360"
+    },
+    "slug": "the-elder-scrolls-v-skyrim-collectors-edition",
+    "summary": "Skyrim's main story revolves around the player character and their effort to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world. The game is set two hundred years after the events of Oblivion and takes place in the fictional province of Skyrim. Over the course of the game, the player completes quests and develops the character by improving skills. Skyrim continues the open world tradition of its predecessors by allowing the player to travel anywhere in the game world at any time, and to ignore or postpone the main storyline indefinitely.",
+    "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-collectors-edition",
+    "screenshots": [],
+    "price": 6199
+  },
+  {
+    "code": 134371,
+    "cover": {
+      "id": 104381,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 134371,
+      "height": 1920,
+      "image_id": "co28jh",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co28jh.jpg",
+      "width": 1440,
+      "checksum": "a008d251-5656-a917-0701-509466ff0a5c"
+    },
+    "first_release_date": 1591920000,
+    "genres": ["Puzzle"],
+    "name": "Goosebumps: Dead of Night",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "goosebumps-dead-of-night",
+    "summary": "Slappy the Dummy has unleashed a nightmare of Goosebumps monsters, and they’re all out to get you! Escape from frightening creatures like the Graveyard Ghoul, Lawn Gnomes, Annihilator 3000, Murder the Clown, and the Werewolf of Fever Swamp as you collect the scattered pages of Slappy's book to seal him away. You’ll explore infamous Goosebumps locales for clues, hide from monsters, and solve Slappy’s devious puzzles.",
+    "url": "https://www.igdb.com/games/goosebumps-dead-of-night",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ak0.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ak1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ak2.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ak3.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ak4.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc8ak5.jpg"
+    ],
+    "price": 3099
+  },
+  {
+    "code": 82461,
+    "cover": {
+      "id": 60658,
+      "game": 82461,
+      "height": 1080,
+      "image_id": "kqqk9h3gwdb1hmsnfonn",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/kqqk9h3gwdb1hmsnfonn.jpg",
+      "width": 720,
+      "checksum": "907e413f-9ead-c205-d28e-781e8c130d43"
+    },
+    "first_release_date": 1480032000,
+    "genres": [],
+    "name": "10tons Adventure Puzzles Bundle",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "10tons-adventure-puzzles-bundle",
+    "summary": "Sparkle 2: Sparkle 2 is a superbly polished marble shooter action puzzle game with beautiful graphics, mighty powerups and an amazing soundtrack. Match the orbs before they fall into the abyss and find your way through mysterious lands of startling beauty!\n\nAzkend 2: Step aboard a fantastic adventure! Enjoy amazing match-three gameplay and discover one of the most astonishing worlds ever imagined.",
+    "url": "https://www.igdb.com/games/10tons-adventure-puzzles-bundle",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/jhfzwhra2hvgcufhjjph.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/vez6vazc22wnap7i9yg1.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/fxlo1d2qxf8srm3we7ti.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/gbhpqo9jtclczpue4gli.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/g5s6fxcqstye59hcs0ck.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qaegqyncudjy0emncgcd.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/q252jvzdpeawv6cmbisi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/n3xoag3htoumcofbefi0.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/x2kzpgbla83rlduwtzv8.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/fv55omhj8enb7gicp5h4.jpg"
+    ],
+    "price": 1499
+  },
+  {
+    "code": 122655,
+    "cover": {
+      "id": 104364,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 122655,
+      "height": 1920,
+      "image_id": "co28j0",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co28j0.jpg",
+      "width": 1440,
+      "checksum": "bb2c7fb4-d502-8b4c-7f45-fc4f266524ed"
+    },
+    "first_release_date": 1591315200,
+    "genres": ["Music", "Puzzle", "Adventure"],
+    "name": "Cyber Protocol",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "cyber-protocol",
+    "summary": "Cyber Protocol is an arcade puzzle game set in Cyberpunk scenario with a strong and dynamic gameplay. You impersonate the main hero, whose mission is to bring his Android friend (G0X6) back to life by activating the protocol.",
+    "url": "https://www.igdb.com/games/cyber-protocol",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76to.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76tp.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76tq.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76tr.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76ts.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76tt.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc76tu.jpg"
+    ],
+    "price": 1199
+  },
+  {
+    "code": 83767,
+    "cover": {
+      "id": 103579,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 83767,
+      "height": 960,
+      "image_id": "co27x7",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co27x7.jpg",
+      "width": 720,
+      "checksum": "b82f978f-0f43-14e8-e348-7fbc531f8576"
+    },
+    "first_release_date": 1513900800,
+    "genres": [],
+    "name": "Poker Starter Pack",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "poker-starter-pack",
+    "summary": "Step onto the casino floor, where playing big could mean winning big. \n\nGet a head start at the poker table with this beginner’s bundle which includes the Pure Hold’em base game, two card decks, and a chip set. Everything you need to go all in!\n\nThis bundle includes:\nPure Hold’em base game \nPlume Card Deck\nHamilton Card Deck\nKing’s Ransom Chip Set",
+    "url": "https://www.igdb.com/games/poker-starter-pack",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/t5ikr4l5hkmhdtktm84d.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/d4q2liqfmiqqiofuvjto.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/m9e0c7pnrmdbnvxu9u0r.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/smqqvkgyhdxcu3lrxoyv.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/okk9f3qmor0r4gggqmeo.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/bqhgmmzrlgrdgazqao2v.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/azjwixsvyi93mfxh2sml.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/wurid0197g1f26bbkeuf.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/abgz38cjq51guvhqxn7i.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/cfm24hwl3thjm41youzo.jpg"
+    ],
+    "price": 2799
+  },
+  {
+    "code": 135606,
+    "cover": {
+      "id": 109213,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 135606,
+      "height": 1920,
+      "image_id": "co2c9p",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co2c9p.jpg",
+      "width": 1440,
+      "checksum": "3f29e2f3-59c4-8b8d-09b8-ebec3ec89e1d"
+    },
+    "first_release_date": 1587686400,
+    "genres": ["Hack and slash/Beat 'em up"],
+    "name": "Doug Hates His Job",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "doug-hates-his-job",
+    "summary": "Doug Hates his Job is a Beat-Em Up game with an office mockumentary style story about a sales agent who, as the title states, hates his job! With 8 styles of gameplay, you get to decide how Doug responds to annoying coworkers, crazy clients, and a ruthless boss.",
+    "url": "https://www.igdb.com/games/doug-hates-his-job",
+    "screenshots": [],
+    "price": 1899
+  },
+  {
+    "code": 83762,
+    "cover": {
+      "id": 103607,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 83762,
+      "height": 960,
+      "image_id": "co27xz",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co27xz.jpg",
+      "width": 720,
+      "checksum": "e8ed0977-b623-c773-0467-4bfe28ee99d2"
+    },
+    "first_release_date": 1504828800,
+    "genres": [],
+    "name": "NBA 2K18: The Prelude",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "nba-2k18-the-prelude",
+    "summary": "Get a free sneak peek at the neighborhood, one week prior to the full release of NBA 2K18. Hit the Proving Ground streetball courts with your MyPLAYER and show the world what you have to offer. \n\nUpdated Create A Player\nCreate the MyPLAYER you want, whether scanning your face with the MyNBA2K18 mobile app or building something custom using our preset options. Hairstyles have been updated with numerous new options to choose from, and body weight and height are more accurately represented to ensure the unique look you want for your MyPLAYER.",
+    "url": "https://www.igdb.com/games/nba-2k18-the-prelude",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/bwncfzvdz2p5bk62x2xn.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/e02irtijcpmyu3xvtjvu.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qf2apkb4z7y1vxppgcl7.jpg"
+    ],
+    "price": 3399
+  },
+  {
+    "code": 82426,
+    "cover": {
+      "id": 58490,
+      "game": 82426,
+      "height": 1080,
+      "image_id": "h5y6fi7lzzuzjhh301bg",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/h5y6fi7lzzuzjhh301bg.jpg",
+      "width": 720,
+      "checksum": "f7950b19-a2ca-b64f-29d6-3fe28ab62b26"
+    },
+    "first_release_date": 1455235200,
+    "genres": [],
+    "name": "Q*bert REBOOTED: The XBOX One @!#?@! Edition",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "q-star-bert-rebooted-the-xbox-one-at-number-at-edition",
+    "summary": "Q*bert is Back @!#?@!\n\nOne of the most critically acclaimed and commercially successful arcade games of the 1980s is back in its Classic pixel perfect 2D form, and a re-imagined Rebooted version with state of the art 3D game-play and graphics that remain faithful to the original concept. Both versions are exciting twitch games requiring keen puzzle solving skills and logic.\n\nExclusive to Xbox One: enhanced gameplay, 5 new playable characters, and an all-new soundtrack from EDM superstar EnV!",
+    "url": "https://www.igdb.com/games/q-star-bert-rebooted-the-xbox-one-at-number-at-edition",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/lwuftkf6wqigrowbxdlv.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ihlb1fn7ometco91szma.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/jl4yslkfopfkz1cdbaug.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/nxm5iegpkwtbx6sxg9ta.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/ythz8ny77lzj8le8s5un.jpg"
+    ],
+    "price": 3499
+  },
+  {
+    "code": 51614,
+    "cover": {
+      "id": 35122,
+      "game": 51614,
+      "height": 294,
+      "image_id": "w9dq1fswguo1fuleuyxf",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/w9dq1fswguo1fuleuyxf.jpg",
+      "width": 215,
+      "checksum": "6615b2cf-7278-998a-4319-8b9537a97598"
+    },
+    "first_release_date": 1469577600,
+    "genres": [],
+    "name": "Action News Heroes",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "action-news-heroes",
+    "summary": "From fast food restaurant chains to live TV news, Network X has gained control of almost every modern industry. Network X has spent decades developing a mythical teleportation technology. This teleportation technology was compromised to a contract army who calls itself, Sabre. As a result, Sabre has taken aim at Network X and everything it controls.\n\nNo longer able to protect their own interests, Network X hires rag tag group of mercenaries who’ve been tasked with eradicating Sabre. Your job is to destroy Sabre on live TV as Network X's top hit news program, Action News Heroes. Put on a good show to boost Network X's ratings, and discover why Sabre has a sudden interest in destroying Network X.",
+    "url": "https://www.igdb.com/games/action-news-heroes",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/tus3nx2eefmsbbsp9dus.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/bsbh53rnabznd9sfsswb.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/m3ug3nchpquttecyhmov.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/egvyc2as3hpe2iajuitv.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/qqe082hs6weozmbk89fg.jpg"
+    ],
+    "price": 599
+  },
+  {
+    "code": 84941,
+    "cover": {
+      "id": 99123,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 84941,
+      "height": 960,
+      "image_id": "co24hf",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co24hf.jpg",
+      "width": 720,
+      "checksum": "1b4dc293-c950-7553-470c-6abba1b9eb6c"
+    },
+    "first_release_date": 1506988800,
+    "genres": [],
+    "name": "Forza Motorsport 7: Ultimate Edition",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "forza-motorsport-7-ultimate-edition",
+    "summary": "The Forza Motorsport 7 Ultimate Edition includes the Forza Motorsport 7 Car Pass, the Day One Car Pack, and VIP membership. Buy the Forza Motorsport 7 Ultimate Edition and receive two custom driver gear.",
+    "url": "https://www.igdb.com/games/forza-motorsport-7-ultimate-edition",
+    "screenshots": [],
+    "price": 3299
+  },
+  {
+    "code": 116374,
+    "cover": {
+      "id": 98819,
+      "alpha_channel": false,
+      "animated": false,
+      "game": 116374,
+      "height": 960,
+      "image_id": "co248z",
+      "url": "//images.igdb.com/igdb/image/upload/t_cover_big/co248z.jpg",
+      "width": 720,
+      "checksum": "11767830-9a96-de52-bdb3-c3db66164bba"
+    },
+    "first_release_date": 1584835200,
+    "genres": ["Racing"],
+    "name": "Phar Lap - Horse Racing Challenge",
+    "platform": {
+      "name": "Xbox One",
+      "platform_logo_url": "//images.igdb.com/igdb/image/upload/t_logo_med/pl95.png",
+      "url": "https://www.igdb.com/platforms/xboxone",
+      "slug": "xbox-one"
+    },
+    "slug": "phar-lap-horse-racing-challenge",
+    "summary": "Phar Lap – Horse Racing Challenge will let you experience the thrill and thunder of racing with the pride and prestige of building your own stable of champions. Online Racing and Betting game modes allow you get straight into the action with friends, share and download horses with the community via the Horse Creator, or build a dynasty of thoroughbred champions to restore your family legacy in Story Mode.",
+    "url": "https://www.igdb.com/games/phar-lap-horse-racing-challenge",
+    "screenshots": [
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69he.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69hf.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69hg.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69hh.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69hi.jpg",
+      "//images.igdb.com/igdb/image/upload/t_screenshot_big/sc69hj.jpg"
+    ],
+    "price": 699
+  }
+]
